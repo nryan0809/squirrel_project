@@ -3,7 +3,7 @@ from vwsquirrel.models import squirrel_model as sm
 import pandas as pd
 class Command(BaseCommand):
     def add_arguments(self, parser):
-        parser.add_argument('csv_file', nargs='+', type=str)    
+        parser.add_argument('csv_file', type=str)    
     def handle(self, *args, **options):
         filepath=options['csv_file']
         datadf=pd.read_csv(filepath, usecols=["x","y","unique_squirrel_id","shift","date","age","primary_fur_color","location","specific_location","running","chasing","climbing","eating","foraging","other_activities","kuks","quaas","moans","tail_flags","tail_twitches","approaches","indifferent","runs_from"])
