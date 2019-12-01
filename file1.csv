@@ -1,0 +1,1001 @@
+Latitude,Longitude,Unique_Squirrel_ID,Shift,Date,Age,Primary_Fur_Color,Location,Specific_Location,Running,Chasing,Climbing,Eating,Foraging,Other_Activities,Kuks,Quaas,Moans,Tail_flags,Tail_twitches,Approaches,Indifferent,Runs_from
+-73,40,37F-PM-1014-03,PM,10142018,nan,nan,nan,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,37E-PM-1006-03,PM,10062018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,2E-AM-1010-03,AM,10102018,Adult,Cinnamon,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,5D-PM-1018-05,PM,10182018,Juvenile,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,39B-AM-1018-01,AM,10182018,nan,nan,Above Ground,nan,False,False,False,False,False,unknown,True,False,False,False,False,False,False,False
+-73,40,33H-AM-1019-02,AM,10192018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,False,wrestling with mother,False,False,False,False,False,False,False,False
+-73,40,6G-PM-1020-02,PM,10202018,Adult,Gray,Ground Plane,nan,True,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,35C-PM-1013-03,PM,10132018,nan,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,7B-AM-1008-09,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,32E-PM-1017-14,PM,10172018,Adult,Gray,nan,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,True
+-73,40,13E-AM-1017-05,AM,10172018,Adult,Gray,Above Ground,on tree stump,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,11H-AM-1010-03,AM,10102018,Adult,Cinnamon,nan,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,36H-AM-1010-02,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,33F-AM-1008-02,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,21C-PM-1006-01,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,nan,False,False,False,True,True,False,False,False
+-73,40,11D-AM-1010-03,AM,10102018,Adult,Gray,Above Ground,nan,False,False,True,False,False,grooming,False,False,False,False,False,False,True,False
+-73,40,20B-PM-1013-05,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,36I-PM-1007-01,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,5C-PM-1010-09,PM,10102018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,7H-AM-1006-05,AM,10062018,Adult,Gray,Above Ground,nan,False,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,16C-PM-1018-03,PM,10182018,Adult,Gray,Above Ground,nan,True,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,14E-AM-1008-23,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,walking,False,False,False,False,False,False,True,False
+-73,40,32A-PM-1013-03,PM,10132018,Juvenile,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,33F-AM-1008-01,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,moving slowly,False,False,False,False,False,False,True,False
+-73,40,17F-AM-1007-07,AM,10072018,Adult,Gray,Above Ground,nan,True,False,False,False,False,nan,False,False,False,True,False,False,True,False
+-73,40,16I-AM-1008-01,AM,10082018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,12I-AM-1013-01,AM,10132018,Adult,Cinnamon,Ground Plane,on tree roots,False,False,False,False,False,sitting,False,False,False,False,True,False,False,True
+-73,40,32F-PM-1008-07,PM,10082018,Adult,Gray,Ground Plane,nan,True,True,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,25A-AM-1013-04,AM,10132018,nan,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,15E-AM-1013-01,AM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,39G-PM-1013-06,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,29I-PM-1007-01,PM,10072018,nan,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,False
+-73,40,7E-AM-1006-02,AM,10062018,Adult,Gray,Ground Plane,under a tree,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,17C-PM-1013-05,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,eating (ate upside down on a tree — #jealous),False,False,False,False,False,False,True,False
+-73,40,10A-PM-1014-01,PM,10142018,Adult,Gray,Ground Plane,in b/w trees,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,28A-PM-1007-05,PM,10072018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,True,False,False,True
+-73,40,22F-PM-1014-05,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,12B-AM-1007-01,AM,10072018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,True,False,False,True,False
+-73,40,18A-PM-1018-01,PM,10182018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,36H-PM-1008-02,PM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,29C-AM-1007-06,AM,10072018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,38C-PM-1014-09,PM,10142018,Adult,Black,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,True,False,False
+-73,40,31H-PM-1008-02,PM,10082018,Juvenile,Gray,Above Ground,nan,True,False,True,False,False,nan,False,False,False,False,True,False,True,False
+-73,40,8H-AM-1017-06,AM,10172018,Adult,Gray,Above Ground,nan,False,True,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,34F-AM-1007-01,AM,10072018,Adult,Gray,Above Ground,nan,True,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,13H-PM-1010-02,PM,10102018,Adult,Gray,Above Ground,tree,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,22F-PM-1014-06,PM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,True,False,True,False
+-73,40,32E-AM-1007-13,AM,10072018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,35C-AM-1007-05,AM,10072018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,17E-AM-1017-05,AM,10172018,Adult,Black,Above Ground,Branch,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,2B-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,running (with nut),False,False,False,False,False,False,False,False
+-73,40,19D-AM-1007-01,AM,10072018,Juvenile,Gray,Ground Plane,nan,False,False,True,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,40B-AM-1019-03,AM,10192018,Juvenile,Gray,Ground Plane,nan,True,True,False,False,False,nan,False,False,False,False,True,True,False,False
+-73,40,3E-PM-1008-07,PM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,39C-PM-1006-01,PM,10062018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,6G-AM-1008-02,AM,10082018,Juvenile,Gray,Ground Plane,bush,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,14F-AM-1007-05,AM,10072018,Juvenile,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,6I-PM-1013-06,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,playing with #5,False,False,False,False,True,False,False,False
+-73,40,15F-PM-1010-05,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,8B-PM-1012-02,PM,10122018,Adult,Gray,Ground Plane,hiding in bushes,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,3A-PM-1017-06,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,36I-AM-1017-02,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,5E-AM-1008-06,AM,10082018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,True,False,False
+-73,40,32E-PM-1017-13,PM,10172018,Adult,Gray,nan,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,5F-PM-1007-03,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,hiding nut,False,False,False,False,True,False,True,False
+-73,40,11B-PM-1014-05,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,16E-PM-1018-06,PM,10182018,Adult,Cinnamon,Ground Plane,On a rock,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,13F-AM-1007-02,AM,10072018,Adult,Cinnamon,nan,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,20B-PM-1013-10,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,drank from a pond of rain water,False,False,False,False,False,False,True,False
+-73,40,3A-PM-1017-05,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,29H-PM-1006-01,PM,10062018,Adult,Gray,Above Ground,nan,False,False,True,False,False,sitting,False,False,False,False,False,False,True,False
+-73,40,23C-PM-1014-03,PM,10142018,Adult,Gray,Above Ground,nan,False,True,False,False,False,chasing (#4 across trees),False,False,False,False,False,False,False,False
+-73,40,33C-PM-1007-03,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,38G-PM-1020-09,PM,10202018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,True,False,False,True,False
+-73,40,16G-PM-1017-01,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,36I-PM-1007-07,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,35A-AM-1014-03,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,28C-PM-1006-01,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,gathering acorns,False,False,False,True,False,False,False,True
+-73,40,32D-AM-1013-06,AM,10132018,Adult,Cinnamon,Ground Plane,nan,True,False,False,True,True,"eating (a mushroom),circles around us,really fat,scratching himself,grooming activity",False,False,False,False,True,True,False,False
+-73,40,22A-AM-1008-05,AM,10082018,Adult,Gray,Above Ground,trash can,False,False,False,True,False,nan,False,False,False,True,False,False,False,True
+-73,40,40B-PM-1014-06,PM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,19C-PM-1018-01,PM,10182018,Adult,Gray,Ground Plane,nan,True,True,False,True,False,nan,False,False,False,False,True,False,True,False
+-73,40,35A-PM-1013-06,PM,10132018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,14E-AM-1008-09,AM,10082018,Adult,Gray,Ground Plane,nan,True,True,False,False,False,nan,True,False,False,False,False,False,False,True
+-73,40,15G-PM-1019-05,PM,10192018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,10F-AM-1007-02,AM,10072018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,42E-PM-1012-06,PM,10122018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,22B-AM-1013-04,AM,10132018,Adult,Cinnamon,Ground Plane,Under bench,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,15F-PM-1010-06,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,5A-AM-1006-05,AM,10062018,Adult,Gray,Ground Plane,near 65th St arch,False,False,False,False,True,nan,False,False,False,True,False,False,False,True
+-73,40,32H-PM-1006-01,PM,10062018,nan,Gray,Above Ground,in the European Beech,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,42C-AM-1007-02,AM,10072018,nan,nan,nan,nan,False,False,False,False,False,nan,False,True,False,False,False,False,False,False
+-73,40,41D-AM-1014-01,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,digging,False,False,False,False,False,False,True,False
+-73,40,21G-PM-1007-01,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,True,False,False,True,False
+-73,40,14E-AM-1008-02,AM,10082018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,walking,False,False,False,False,False,False,False,True
+-73,40,7H-PM-1006-04,PM,10062018,Adult,Gray,Above Ground,on tree knob,False,False,False,False,False,sitting,False,False,False,False,False,False,True,False
+-73,40,22F-AM-1007-01,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,True,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,7F-AM-1008-16,AM,10082018,Juvenile,Gray,Above Ground,tree,False,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,10F-PM-1019-05,PM,10192018,Adult,Black,Above Ground,"Behind fence, tree",False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,10A-AM-1006-04,AM,10062018,Juvenile,Gray,Above Ground,tree near large rock on Bridle Path,False,False,False,False,False,walking on branch,False,False,False,False,True,False,False,False
+-73,40,38F-PM-1013-05,PM,10132018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,"being chased,was pushed by other squirrel",True,True,False,False,False,False,False,False
+-73,40,41B-PM-1014-01,PM,10142018,Adult,Gray,Above Ground,Climbing tree,False,False,True,False,False,climbing (tree),False,False,False,False,False,False,False,True
+-73,40,36A-PM-1013-07,PM,10132018,nan,Gray,Ground Plane,"""FIELD""",False,True,False,False,False,chasing #8,False,False,False,False,False,False,False,True
+-73,40,5C-AM-1006-05,AM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,32E-PM-1017-03,PM,10172018,Adult,Gray,Above Ground,bottom of tree,False,False,False,True,False,still,False,False,False,False,False,False,True,False
+-73,40,31A-PM-1017-04,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,False
+-73,40,42G-AM-1018-03,AM,10182018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,stop to look at me—then ran,False,False,False,False,False,False,False,True
+-73,40,37D-PM-1014-04,PM,10142018,Adult,Gray,Ground Plane,nan,False,True,False,False,True,chasing (a chipmunk),False,False,False,False,False,False,False,True
+-73,40,24B-AM-1013-01,AM,10132018,nan,Gray,Above Ground,nan,True,False,False,True,False,took nut to bury,False,False,False,False,True,False,False,True
+-73,40,7G-AM-1010-02,AM,10102018,Adult,Gray,Above Ground,nan,True,False,False,False,False,nan,False,False,False,False,True,False,False,True
+-73,40,5C-PM-1010-13,PM,10102018,Adult,Gray,Above Ground,way up a tree!,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,15I-AM-1008-01,AM,10082018,Adult,Gray,Above Ground,tree,False,False,True,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,19B-PM-1018-01,PM,10182018,Adult,Gray,Above Ground,nan,True,False,False,False,False,flying,False,False,False,False,False,False,False,False
+-73,40,13D-PM-1018-10,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,36I-PM-1007-10,PM,10072018,Juvenile,Gray,Ground Plane,nan,False,False,False,True,False,stole (found?) an entire sandwich,False,False,False,False,False,False,True,False
+-73,40,41B-AM-1010-06,AM,10102018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,35B-AM-1010-01,AM,10102018,Adult,Gray,Ground Plane,lawn,False,False,False,False,False,walking w/ something in mouth,False,False,False,False,False,False,True,False
+-73,40,40D-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,38B-PM-1018-02,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,burying nut,False,False,False,False,False,False,False,False
+-73,40,40I-AM-1018-01,AM,10182018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,True,begging,False,False,False,False,False,False,False,False
+-73,40,7B-AM-1008-10,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,13D-AM-1014-08,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,16G-AM-1010-03,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,was hanging out w/ #2 until i showed up,True,False,False,False,False,False,False,True
+-73,40,40A-AM-1010-03,AM,10102018,Adult,Gray,Ground Plane,bottom of great hill,False,False,False,True,True,nan,False,False,False,True,False,False,True,True
+-73,40,15I-PM-1012-07,PM,10122018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,3B-PM-1007-11,PM,10072018,Adult,Gray,Above Ground,in tree,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,21D-AM-1008-02,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,10B-PM-1014-05,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,True,False,False,False
+-73,40,13E-PM-1008-07,PM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,41A-PM-1007-06,PM,10072018,Adult,Black,Ground Plane,nan,True,False,True,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,2F-AM-1006-05,AM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,20B-AM-1007-01,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,quietly,False,False,False,False,False,False,True,False
+-73,40,26A-PM-1006-06,PM,10062018,Adult,Gray,Ground Plane,Tree 90th left 90th & 89,False,False,True,False,False,nan,False,False,False,True,False,False,False,False
+-73,40,35E-PM-1006-07,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,True
+-73,40,11G-PM-1013-01,PM,10132018,Adult,Gray,Above Ground,In the Woods/Brush,False,False,True,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,36I-PM-1007-13,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,True,True,False,False
+-73,40,7A-AM-1006-01,AM,10062018,Adult,Gray,Above Ground,in tree,False,False,False,False,True,nan,False,True,False,False,True,False,False,False
+-73,40,7G-PM-1018-03,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,14E-AM-1008-05,AM,10082018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nest building,False,False,False,False,False,False,True,False
+-73,40,3D-PM-1010-03,PM,10102018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,35D-PM-1013-09,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,7F-PM-1012-01,PM,10122018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,18G-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,burying,False,False,False,False,False,False,False,True
+-73,40,6F-PM-1008-01,PM,10082018,Adult,Gray,Above Ground,nan,False,True,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,9F-AM-1013-04,AM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,38E-AM-1010-09,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,33G-AM-1013-02,AM,10132018,Adult,Gray,Above Ground,shelter in hole in tree,False,False,True,False,False,nan,False,False,False,False,False,False,True,True
+-73,40,39G-AM-1018-01,AM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,dead (something ran over it),False,False,False,False,False,False,False,False
+-73,40,32G-PM-1013-03,PM,10132018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,4D-PM-1008-11,PM,10082018,Adult,Cinnamon,Above Ground,on tree facing downward,False,True,False,False,False,chased #12,True,False,False,True,False,False,False,True
+-73,40,6H-AM-1008-01,AM,10082018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,5E-AM-1008-08,AM,10082018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,15D-PM-1017-01,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,16E-AM-1014-03,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,True,False,False
+-73,40,39H-PM-1013-02,PM,10132018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,39C-PM-1006-02,PM,10062018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,31A-AM-1010-04,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,False,False
+-73,40,9F-PM-1014-02,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,21G-PM-1007-02,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,True,False,False,False,True
+-73,40,2F-AM-1006-01,AM,10062018,Adult,Gray,Ground Plane,walking along path,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,20F-PM-1007-01,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,True,False,True,False
+-73,40,35E-PM-1006-01,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,True,False,False
+-73,40,9G-AM-1007-04,AM,10072018,Adult,Gray,Above Ground,nan,False,False,False,False,False,grooming,False,False,False,False,False,False,True,False
+-73,40,5D-PM-1018-03,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,14F-PM-1012-06,PM,10122018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,True,False,True,False
+-73,40,23F-AM-1018-01,AM,10182018,Adult,Cinnamon,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,39A-PM-1014-02,PM,10142018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,13A-PM-1014-03,PM,10142018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,10B-AM-1006-02,AM,10062018,Juvenile,Gray,Above Ground,High in a tree,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,38B-AM-1019-01,AM,10192018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,9G-PM-1007-06,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,40B-AM-1019-02,AM,10192018,Juvenile,Gray,Ground Plane,nan,True,True,False,False,False,nan,False,False,False,False,True,False,False,False
+-73,40,35D-PM-1013-04,PM,10132018,Juvenile,Gray,nan,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,10G-PM-1017-10,PM,10172018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,playing (with #9),False,False,False,False,False,False,True,False
+-73,40,13C-AM-1010-04,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,32C-PM-1013-12,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,True,True,False,False
+-73,40,37F-PM-1014-01,PM,10142018,nan,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,31D-PM-1006-04,PM,10062018,Adult,Gray,Above Ground,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,15I-PM-1012-03,PM,10122018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,19C-PM-1018-04,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,10F-PM-1019-12,PM,10192018,Adult,Black,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,18C-PM-1018-01,PM,10182018,nan,Black,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,7B-AM-1008-11,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,40E-AM-1014-02,AM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,38B-AM-1019-05,AM,10192018,Adult,Gray,Above Ground,nan,False,False,True,False,False,sitting still,False,True,False,False,False,False,False,False
+-73,40,3B-AM-1010-09,AM,10102018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,19B-AM-1019-02,AM,10192018,Juvenile,Gray,Ground Plane,nan,True,False,False,True,False,posing,False,False,False,False,False,False,True,True
+-73,40,41B-AM-1010-07,AM,10102018,Adult,Cinnamon,Above Ground,nan,False,False,False,False,False,nan,True,False,False,True,False,True,False,False
+-73,40,4G-AM-1006-02,AM,10062018,nan,Gray,Above Ground,tree,False,False,False,False,False,sitting in tree,False,False,False,False,False,False,True,False
+-73,40,12F-PM-1007-04,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,3B-AM-1010-08,AM,10102018,Juvenile,Gray,Above Ground,nan,False,False,True,False,False,together w/ #7,False,False,False,False,False,False,True,False
+-73,40,17H-PM-1007-02,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,True,False,False,True,False
+-73,40,38G-PM-1020-01,PM,10202018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,True,False,False,False,True
+-73,40,4D-PM-1008-06,PM,10082018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,True,False,False,True,False
+-73,40,3G-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,15H-PM-1008-03,PM,10082018,Adult,Gray,Ground Plane,lawn moving east over Park path,False,False,False,False,False,not sure walk-pause-walk,False,False,False,False,False,False,True,False
+-73,40,14G-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,5D-AM-1020-01,AM,10202018,Adult,nan,Above Ground,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,5C-AM-1006-02,AM,10062018,Adult,Cinnamon,Above Ground,nan,True,False,True,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,42H-AM-1019-02,AM,10192018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,38A-PM-1013-03,PM,10132018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,7G-PM-1018-05,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,31A-AM-1010-05,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,jumping,False,False,False,True,True,False,True,False
+-73,40,22C-AM-1013-03,AM,10132018,Juvenile,Cinnamon,Ground Plane,nan,False,False,False,True,True,eating (mushroom),False,False,False,False,False,False,False,True
+-73,40,36F-PM-1012-04,PM,10122018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,30D-AM-1017-02,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,5C-AM-1006-03,AM,10062018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,13H-PM-1010-05,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,10F-PM-1019-02,PM,10192018,Juvenile,Gray,Ground Plane,"Behind fence, grass",True,False,False,False,False,nan,False,False,False,False,True,False,False,True
+-73,40,5I-PM-1008-01,PM,10082018,Adult,Black,Above Ground,in tree by arsenal - climbing,False,False,True,True,False,nan,False,False,False,True,False,False,False,False
+-73,40,16D-PM-1010-13,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,21G-AM-1014-07,AM,10142018,Adult,Gray,Above Ground,nan,False,True,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,22B-PM-1014-05,PM,10142018,nan,Gray,Ground Plane,nan,False,False,False,True,False,eating (eats with head tilted far to the right (tooth issue?)),False,False,False,False,False,False,False,False
+-73,40,3D-AM-1006-08,AM,10062018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,True,False,False
+-73,40,39H-AM-1007-01,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,6D-PM-1020-01,PM,10202018,Adult,Gray,Ground Plane,Baseball field,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,12E-PM-1018-06,PM,10182018,Juvenile,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,14D-PM-1019-04,PM,10192018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,3E-PM-1008-03,PM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,17F-PM-1020-03,PM,10202018,Adult,Gray,Above Ground,nan,False,False,True,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,22D-PM-1012-04,PM,10122018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,8A-AM-1013-03,AM,10132018,Juvenile,nan,Above Ground,fence,True,True,True,True,False,playing tag together,False,False,False,False,False,True,False,False
+-73,40,7E-AM-1006-03,AM,10062018,Adult,Gray,Ground Plane,under a tree,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,42G-PM-1014-03,PM,10142018,Adult,Cinnamon,Above Ground,on fence,True,False,False,False,False,prancing,False,False,False,False,False,False,False,True
+-73,40,28C-PM-1006-02,PM,10062018,Adult,Gray,Ground Plane,Near rock,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,2D-AM-1007-03,AM,10072018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,32E-AM-1007-10,AM,10072018,Adult,Black,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,12C-AM-1013-03,AM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,burying,False,False,False,False,False,False,True,False
+-73,40,8F-PM-1012-04,PM,10122018,Adult,Gray,Above Ground,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,2H-AM-1006-02,AM,10062018,Adult,Gray,Ground Plane,nan,False,True,True,False,False,nan,False,False,False,False,False,True,False,False
+-73,40,36I-AM-1017-05,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,True
+-73,40,32B-AM-1017-03,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,True,True,True
+-73,40,37E-PM-1006-04,PM,10062018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,12B-AM-1007-02,AM,10072018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,True,False,False,True,False
+-73,40,4E-PM-1008-08,PM,10082018,Adult,Gray,Ground Plane,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,14A-PM-1014-01,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,15F-PM-1010-07,PM,10102018,Adult,Gray,Above Ground,on fence,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,9B-PM-1013-07,PM,10132018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,8C-PM-1013-05,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,True,False,False,True,False
+-73,40,6B-PM-1017-04,PM,10172018,Adult,Gray,Ground Plane,nan,True,True,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,5D-AM-1020-02,AM,10202018,Adult,Gray,Ground Plane,nan,False,False,True,False,True,small jumps,False,False,False,False,False,False,False,False
+-73,40,40A-AM-1010-04,AM,10102018,Adult,Gray,Ground Plane,bottom great hill,False,False,False,False,True,nan,False,False,False,True,False,False,True,True
+-73,40,4E-AM-1020-01,AM,10202018,Adult,Gray,Above Ground,nan,False,False,True,False,False,sitting very still,False,False,False,False,False,False,True,False
+-73,40,32E-AM-1007-01,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,32E-PM-1017-04,PM,10172018,Adult,Gray,Ground Plane,treed area,False,False,False,True,True,nan,False,False,False,False,False,False,False,True
+-73,40,2D-PM-1012-02,PM,10122018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,True,False,False
+-73,40,6F-PM-1008-05,PM,10082018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,10B-PM-1014-02,PM,10142018,Adult,Gray,Above Ground,gingko tree by traffic light in front of Strawberry Fields,False,False,False,False,True,nan,False,False,False,False,True,False,False,False
+-73,40,3C-PM-1008-02,PM,10082018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,7F-AM-1008-02,AM,10082018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,38D-AM-1017-02,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,hiding in log,False,False,False,False,False,False,True,False
+-73,40,10C-PM-1013-04,PM,10132018,nan,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,26I-PM-1010-02,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,hiding food,False,False,False,False,True,False,True,False
+-73,40,10A-AM-1006-03,AM,10062018,Juvenile,Cinnamon,Ground Plane,Bridle Path lawn,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,1B-AM-1012-07,AM,10122018,Adult,Cinnamon,Above Ground,on tree trunk,False,True,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,9A-PM-1010-04,PM,10102018,nan,Cinnamon,Above Ground,nan,True,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,3D-AM-1006-03,AM,10062018,Juvenile,Cinnamon,Ground Plane,on top [of] a big rock/boulder in the area,True,False,True,False,False,climbing (rock),False,False,False,False,False,True,False,False
+-73,40,37H-AM-1018-03,AM,10182018,Adult,Gray,Above Ground,in a tree with red berries,False,False,False,True,False,nan,False,True,False,False,False,False,False,True
+-73,40,7F-AM-1008-09,AM,10082018,Adult,Gray,Above Ground,nan,False,False,True,False,False,playing w/ #8,False,False,False,False,False,False,True,False
+-73,40,6A-AM-1006-06,AM,10062018,Adult,Gray,Above Ground,tree,False,False,True,False,False,nan,True,False,False,False,False,False,False,False
+-73,40,32I-AM-1013-05,AM,10132018,Adult,Cinnamon,Above Ground,In and below shrub,False,False,True,False,True,nan,False,False,False,True,False,False,True,False
+-73,40,7H-PM-1006-02,PM,10062018,Adult,Gray,Above Ground,tree,True,False,True,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,2E-PM-1014-05,PM,10142018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,12F-AM-1020-02,AM,10202018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,14E-AM-1008-01,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,walking,False,False,False,False,False,False,False,True
+-73,40,4B-PM-1018-03,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,True,False,False
+-73,40,5E-PM-1012-02,PM,10122018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,15F-AM-1007-09,AM,10072018,Adult,Cinnamon,Above Ground,nan,False,False,True,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,31F-PM-1007-01,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,8B-PM-1012-03,PM,10122018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,23D-AM-1013-01,AM,10132018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,True,False,False
+-73,40,39H-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,38C-AM-1019-04,AM,10192018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,True,True,False,False,False,False,True,False
+-73,40,30B-PM-1019-08,PM,10192018,Adult,Gray,Ground Plane,nan,False,False,True,True,True,nan,False,False,False,False,False,False,False,True
+-73,40,4F-PM-1013-04,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,3E-PM-1008-05,PM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,jump,False,False,False,False,False,False,True,False
+-73,40,35A-AM-1014-05,AM,10142018,Juvenile,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,5A-PM-1010-01,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,False,False
+-73,40,33I-AM-1008-03,AM,10082018,Adult,Gray,Above Ground,98th @ edge of park,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,37C-PM-1013-03,PM,10132018,Adult,Gray,nan,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,33B-PM-1010-11,PM,10102018,Adult,Gray,Above Ground,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,10G-PM-1017-06,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,37I-AM-1010-01,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,37G-PM-1007-07,PM,10072018,Adult,Gray,Above Ground,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,11G-AM-1012-01,AM,10122018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,13C-PM-1019-01,PM,10192018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,True,False,False,False,False,False,True,False
+-73,40,20A-AM-1010-02,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,15A-PM-1017-01,PM,10172018,Adult,Gray,Above Ground,nan,False,False,True,True,False,eating in tree,False,False,False,False,False,False,True,False
+-73,40,16E-AM-1014-02,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,True,False,False
+-73,40,37E-PM-1006-06,PM,10062018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,22C-AM-1013-01,AM,10132018,Adult,Gray,Above Ground,nan,False,False,False,False,False,"sitting still,tail over back",False,False,False,False,False,False,False,False
+-73,40,16F-PM-1013-02,PM,10132018,Adult,Gray,Ground Plane,Woods,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,8H-AM-1017-04,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,1G-PM-1010-01,PM,10102018,Adult,Gray,Above Ground,nan,False,False,True,True,False,nan,False,False,False,True,False,False,True,False
+-73,40,20A-PM-1017-01,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,37B-AM-1018-03,AM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,15F-PM-1010-03,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,37E-PM-1006-09,PM,10062018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,False,moseying,False,False,False,False,True,True,False,False
+-73,40,35D-PM-1013-03,PM,10132018,Juvenile,Gray,Above Ground,bench,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,36I-AM-1017-06,AM,10172018,Adult,Gray,Above Ground,Running down tree,True,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,3I-PM-1013-07,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,12G-PM-1007-04,PM,10072018,nan,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,4D-PM-1008-08,PM,10082018,Adult,Cinnamon,Ground Plane,nan,False,False,True,True,True,climbed fence staring at me - went up tree,False,False,False,False,False,False,False,True
+-73,40,39H-AM-1007-02,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,True,False,True,False
+-73,40,8C-PM-1013-08,PM,10132018,nan,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,15E-PM-1008-05,PM,10082018,Adult,Gray,Above Ground,nan,False,False,False,False,False,sitting,False,True,False,False,False,False,False,False
+-73,40,10I-AM-1010-03,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,32I-AM-1013-01,AM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,True,False,False,True,False
+-73,40,19B-PM-1018-05,PM,10182018,Juvenile,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,3B-PM-1007-03,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,False,False
+-73,40,35E-PM-1006-06,PM,10062018,Adult,Gray,Above Ground,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,38C-AM-1019-07,AM,10192018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,True,False,False,True
+-73,40,19H-AM-1010-05,AM,10102018,Adult,Gray,Ground Plane,near a brush,False,False,False,True,True,nan,False,False,False,False,False,False,False,True
+-73,40,32D-PM-1006-09,PM,10062018,Juvenile,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,True,True,False,False
+-73,40,39G-PM-1013-04,PM,10132018,Adult,Gray,Ground Plane,nan,False,True,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,38G-PM-1020-10,PM,10202018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,True,False,False,False,True
+-73,40,34I-PM-1010-01,PM,10102018,Adult,Gray,Above Ground,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,12A-PM-1013-04,PM,10132018,nan,Gray,Above Ground,nan,False,True,False,False,False,chasing #3,False,False,False,False,False,False,True,False
+-73,40,19F-AM-1007-02,AM,10072018,Adult,Cinnamon,Above Ground,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,20C-PM-1018-09,PM,10182018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,True,False,False
+-73,40,22A-PM-1017-01,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,33I-PM-1006-07,PM,10062018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,36E-AM-1013-03,AM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,32F-AM-1012-01,AM,10122018,nan,Gray,Ground Plane,nan,False,False,False,False,True,made a back-door escape from dog off-leash,False,False,False,False,False,False,False,True
+-73,40,28D-AM-1012-02,AM,10122018,Adult,Black,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,True
+-73,40,10G-AM-1006-01,AM,10062018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,True,False,True,False
+-73,40,39G-PM-1013-07,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,21E-PM-1012-02,PM,10122018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,17E-PM-1018-03,PM,10182018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,14D-AM-1014-03,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,39F-PM-1006-03,PM,10062018,Adult,Gray,Above Ground,lower branch of tree,False,False,False,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,10F-PM-1019-11,PM,10192018,Adult,Gray,Ground Plane,Grassy area,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,27A-PM-1006-01,PM,10062018,Juvenile,Gray,Above Ground,on a tree,False,False,False,True,True,walking up & down branches,False,False,False,False,False,False,True,False
+-73,40,18D-AM-1018-02,AM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,6A-AM-1006-03,AM,10062018,Adult,Gray,Above Ground,tree,False,True,False,True,False,nan,False,False,False,True,True,False,False,False
+-73,40,4E-PM-1008-04,PM,10082018,Adult,Gray,Above Ground,nan,True,True,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,27I-PM-1020-05,PM,10202018,Adult,Gray,Above Ground,In tree,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,10A-PM-1014-04,PM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,14I-PM-1018-05,PM,10182018,Adult,Gray,Above Ground,nan,False,False,True,True,False,nan,False,False,False,False,True,False,True,False
+-73,40,1H-AM-1012-01,AM,10122018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,True,False,True
+-73,40,8H-PM-1014-05,PM,10142018,Juvenile,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,30E-AM-1008-01,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,False,True
+-73,40,16A-PM-1019-04,PM,10192018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,8B-PM-1012-06,PM,10122018,Adult,Gray,Above Ground,on a bench,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,8F-PM-1012-03,PM,10122018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,buried an acorn,False,False,False,False,False,False,True,False
+-73,40,11E-AM-1013-02,AM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,22I-AM-1007-03,AM,10072018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,37G-PM-1007-09,PM,10072018,Adult,Cinnamon,nan,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,15F-AM-1007-04,AM,10072018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,False
+-73,40,13E-AM-1017-08,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,14D-AM-1014-10,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,7H-AM-1006-06,AM,10062018,Adult,Gray,Above Ground,nan,False,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,1H-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,41C-PM-1007-04,PM,10072018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,29B-PM-1010-05,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,6D-PM-1020-03,PM,10202018,Juvenile,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,False,True,False,False,True
+-73,40,15B-PM-1017-05,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,18I-AM-1017-03,AM,10172018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,12D-PM-1014-02,PM,10142018,Adult,Gray,Above Ground,nan,False,False,True,False,False,seems to be grinding teeth on a piece of material (sounds from grinding),False,False,False,False,False,False,True,False
+-73,40,26A-PM-1006-05,PM,10062018,Adult,Gray,Above Ground,nan,False,True,False,False,False,nan,False,False,False,False,True,False,False,False
+-73,40,32C-PM-1013-03,PM,10132018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,False,True,False,False,False
+-73,40,35E-PM-1006-02,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,True,False,False
+-73,40,14D-PM-1019-12,PM,10192018,Adult,Gray,nan,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,32B-AM-1017-04,AM,10172018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,38C-AM-1019-01,AM,10192018,Juvenile,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,15G-PM-1019-11,PM,10192018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,11F-PM-1006-02,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,10G-PM-1017-02,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,34D-PM-1007-02,PM,10072018,Adult,Black,Above Ground,nan,True,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,37G-AM-1014-05,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,30B-AM-1007-02,AM,10072018,Adult,Gray,Above Ground,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,7A-AM-1006-02,AM,10062018,Adult,Gray,Above Ground,in tree,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,20D-AM-1007-01,AM,10072018,Adult,Gray,Ground Plane,nan,True,False,True,True,False,a lot of activity,False,False,False,True,False,False,False,False
+-73,40,32I-AM-1013-02,AM,10132018,Juvenile,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,8C-PM-1013-04,PM,10132018,Juvenile,Cinnamon,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,13E-PM-1008-10,PM,10082018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,True,False,False,True
+-73,40,5E-AM-1008-09,AM,10082018,Adult,Cinnamon,Above Ground,went up tree,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,39B-PM-1014-06,PM,10142018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,32D-PM-1006-07,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,True,False,False,True,False
+-73,40,21F-AM-1018-01,AM,10182018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,True,False,True,False
+-73,40,33D-PM-1006-03,PM,10062018,nan,Black,Above Ground,nan,True,False,False,True,False,nan,False,False,False,False,True,False,False,True
+-73,40,8E-PM-1008-01,PM,10082018,Adult,Gray,Ground Plane,by tree trunk base,False,False,False,True,False,nan,False,False,False,False,False,True,False,False
+-73,40,33E-PM-1012-01,PM,10122018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,True
+-73,40,22C-AM-1013-02,AM,10132018,Adult,Cinnamon,Above Ground,nan,False,False,True,False,True,nan,True,False,False,True,False,False,False,True
+-73,40,3B-PM-1007-01,PM,10072018,Adult,Gray,Above Ground,in tree,False,False,False,False,False,chased by dog,False,False,False,False,False,False,False,False
+-73,40,40E-AM-1014-01,AM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,31G-PM-1007-01,PM,10072018,Adult,Gray,Above Ground,nan,False,False,False,False,False,hiding,False,False,False,False,True,False,False,False
+-73,40,33E-AM-1014-03,AM,10142018,Adult,Black,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,8E-PM-1008-08,PM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,14D-PM-1019-11,PM,10192018,Adult,Gray,nan,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,2C-AM-1010-03,AM,10102018,Adult,Black,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,1B-AM-1012-12,AM,10122018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,38C-PM-1014-06,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,4I-PM-1007-03,PM,10072018,Adult,Gray,Above Ground,ran to tree,False,False,False,False,False,being chased,False,False,False,False,False,False,False,False
+-73,40,40C-PM-1006-03,PM,10062018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,13H-PM-1010-03,PM,10102018,Adult,Gray,Ground Plane,in glen,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,10H-AM-1014-05,AM,10142018,nan,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,12G-PM-1007-06,PM,10072018,nan,Gray,nan,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,9B-PM-1013-10,PM,10132018,Juvenile,Cinnamon,Above Ground,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,36C-PM-1013-06,PM,10132018,Adult,Gray,Ground Plane,Running across wide street,True,False,False,False,True,carrying food in mouth,False,False,False,False,False,False,False,False
+-73,40,22D-PM-1012-01,PM,10122018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,True,False,False,False,False,False,False,False
+-73,40,11I-PM-1012-03,PM,10122018,Adult,Gray,Ground Plane,nan,True,False,True,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,38A-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,True,False,False,True
+-73,40,14F-PM-1012-01,PM,10122018,Adult,Gray,Ground Plane,nan,True,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,1D-AM-1006-09,AM,10062018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,8B-AM-1007-09,AM,10072018,Adult,Gray,Ground Plane,nan,True,False,False,True,False,"shelling and eating a nut then a dog chased it up a tree & squirrel carried its nut up the tree,settled in a branch & resumed eating",False,False,False,False,False,False,True,False
+-73,40,3B-PM-1007-07,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,eating loudly <- peanuts w/ shells,False,False,False,False,False,False,True,False
+-73,40,22G-PM-1018-03,PM,10182018,Juvenile,Gray,Ground Plane,nan,True,False,False,False,False,chilling,False,False,False,False,False,False,True,False
+-73,40,40G-PM-1013-02,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,True,False,hiding from dog,False,False,False,False,False,False,False,True
+-73,40,27I-PM-1020-01,PM,10202018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,True
+-73,40,22C-PM-1006-09,PM,10062018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,True,False,False,False,False,False,False
+-73,40,1C-PM-1013-05,PM,10132018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,8H-PM-1014-03,PM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,13C-AM-1010-03,AM,10102018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,41B-PM-1014-05,PM,10142018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,True,False,False,False,False,False,True,True
+-73,40,7I-PM-1013-05,PM,10132018,Adult,Gray,Ground Plane,Rock,False,False,False,True,False,nan,False,False,False,True,False,False,False,False
+-73,40,31A-AM-1010-01,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,True,False,False,True
+-73,40,35E-PM-1006-03,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,1D-AM-1006-02,AM,10062018,Juvenile,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,True,False,False,False
+-73,40,14H-PM-1012-01,PM,10122018,Adult,Gray,Ground Plane,nan,True,False,False,True,False,nan,False,False,False,False,False,True,False,False
+-73,40,14H-AM-1007-04,AM,10072018,Juvenile,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,8I-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,9B-PM-1013-02,PM,10132018,Juvenile,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,8B-PM-1012-08,PM,10122018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,9G-AM-1007-02,AM,10072018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,13B-PM-1008-01,PM,10082018,Adult,Gray,Above Ground,on railing,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,31F-PM-1007-04,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,True,False,False,False,True
+-73,40,21G-AM-1014-02,AM,10142018,Adult,Gray,Above Ground,fence,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,16D-PM-1010-01,PM,10102018,Adult,Gray,Ground Plane,nan,True,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,10G-PM-1017-08,PM,10172018,Adult,Black,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,10B-PM-1014-01,PM,10142018,Adult,Gray,Ground Plane,on lawn in front of a tree,False,False,False,False,True,nan,False,False,False,False,True,False,False,False
+-73,40,9B-PM-1013-03,PM,10132018,Juvenile,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,34H-AM-1007-01,AM,10072018,Adult,Gray,Above Ground,tree,False,False,False,False,False,nan,True,True,False,False,False,False,False,False
+-73,40,13H-PM-1010-07,PM,10102018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,7H-AM-1006-11,AM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,True,False,False
+-73,40,8E-PM-1008-05,PM,10082018,Adult,Gray,Ground Plane,"5, 6, 7 all at same tree trunk base",False,False,False,True,True,nan,False,False,False,False,False,False,False,False
+-73,40,4A-PM-1007-03,PM,10072018,Adult,Gray,Ground Plane,by rock,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,42F-PM-1017-02,PM,10172018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,playing,False,False,False,False,False,False,True,False
+-73,40,33E-AM-1014-05,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,22F-AM-1007-05,AM,10072018,Adult,Gray,Above Ground,tree,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,5F-AM-1007-04,AM,10072018,Adult,Gray,Above Ground,rocks,False,False,False,True,True,nan,False,False,False,False,False,False,False,False
+-73,40,41I-AM-1018-02,AM,10182018,Juvenile,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,13D-PM-1018-08,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,18I-PM-1007-09,PM,10072018,Adult,Gray,Above Ground,nan,False,False,True,False,False,canoodling w/ 8,False,False,False,False,False,False,True,False
+-73,40,9F-PM-1014-04,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,12H-PM-1007-04,PM,10072018,nan,Gray,nan,nan,False,False,False,True,False,mushroom,False,False,False,False,False,False,True,False
+-73,40,8F-PM-1012-05,PM,10122018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,True,False,False,False
+-73,40,13E-PM-1008-06,PM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,10G-AM-1006-10,AM,10062018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,True,False,False,False,False,False,False
+-73,40,21F-AM-1018-02,AM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,True,False,True,False
+-73,40,9C-AM-1006-02,AM,10062018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,36B-AM-1013-03,AM,10132018,nan,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,31E-PM-1006-02,PM,10062018,Adult,Gray,Ground Plane,under bushes,False,False,False,True,True,nan,False,True,False,False,False,False,True,False
+-73,40,9C-AM-1006-03,AM,10062018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,21B-AM-1019-04,AM,10192018,nan,nan,nan,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,33I-PM-1006-05,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,19F-PM-1017-01,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,6F-PM-1008-06,PM,10082018,Adult,Cinnamon,nan,nan,False,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,29D-AM-1014-04,AM,10142018,Juvenile,Gray,Ground Plane,Rock a,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,42D-PM-1013-03,PM,10132018,Adult,Gray,Above Ground,in tree,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,19G-PM-1017-03,PM,10172018,Adult,Cinnamon,Ground Plane,nan,False,False,True,True,False,staring,False,False,False,False,True,False,False,False
+-73,40,13I-PM-1008-01,PM,10082018,Adult,Gray,Above Ground,climbed tree,True,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,32E-PM-1017-10,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,True
+-73,40,27A-AM-1008-02,AM,10082018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,24A-AM-1014-01,AM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,14E-AM-1008-20,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,walking,False,False,False,False,False,False,True,False
+-73,40,37D-AM-1018-01,AM,10182018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,1D-PM-1007-06,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,13D-PM-1018-02,PM,10182018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,36D-AM-1007-01,AM,10072018,Adult,Cinnamon,Ground Plane,nan,False,False,True,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,10G-AM-1006-05,AM,10062018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,chasing (#6),True,False,False,False,False,False,False,False
+-73,40,7H-AM-1006-15,AM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,42B-AM-1014-02,AM,10142018,Adult,Black,Ground Plane,nan,False,False,False,False,True,digging,False,False,False,False,False,False,True,False
+-73,40,39G-PM-1013-05,PM,10132018,Adult,Gray,Ground Plane,nan,False,True,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,12F-PM-1007-05,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,8I-AM-1006-08,AM,10062018,Adult,Gray,Above Ground,tree,False,False,False,False,False,nan,True,True,False,False,False,False,False,False
+-73,40,12F-AM-1020-06,AM,10202018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,42D-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,watching passers-by,False,False,False,False,False,True,True,False
+-73,40,38D-PM-1006-01,PM,10062018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,30B-AM-1007-03,AM,10072018,Adult,Gray,Above Ground,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,11E-AM-1013-04,AM,10132018,Adult,Black,Ground Plane,nan,False,False,False,False,True,burying,False,False,False,False,False,False,True,False
+-73,40,16A-PM-1019-07,PM,10192018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,True,False,False
+-73,40,4B-AM-1010-03,AM,10102018,Juvenile,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,14H-AM-1007-02,AM,10072018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,False,sitting,False,False,False,False,False,False,True,False
+-73,40,11I-AM-1012-02,AM,10122018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,7H-AM-1006-04,AM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,23C-PM-1014-02,PM,10142018,Adult,Gray,Ground Plane,"in bushes, then ran across path",True,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,36A-AM-1018-01,AM,10182018,Juvenile,Gray,Above Ground,nan,False,False,False,True,False,eating (red berries),False,False,False,False,False,False,True,False
+-73,40,2D-AM-1007-06,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,6A-PM-1012-04,PM,10122018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,22A-AM-1008-03,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,8H-PM-1014-06,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,3D-AM-1006-04,AM,10062018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,40A-PM-1014-06,PM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,1B-PM-1019-06,PM,10192018,Juvenile,Cinnamon,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,41E-AM-1007-06,AM,10072018,Adult,Gray,Above Ground,tree,False,False,True,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,36B-AM-1013-04,AM,10132018,nan,Black,Above Ground,Moved 20+ feet high above top of tree limb,False,True,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,18F-AM-1014-01,AM,10142018,Adult,Gray,Above Ground,Low tree,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,16H-PM-1014-04,PM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,40C-PM-1006-05,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,13D-AM-1014-06,AM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,18D-PM-1017-01,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,33D-PM-1006-02,PM,10062018,nan,Gray,Above Ground,nan,False,True,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,37H-PM-1006-02,PM,10062018,Adult,Gray,Ground Plane,tree,True,False,True,False,True,nan,True,False,False,False,False,False,False,True
+-73,40,12H-PM-1007-02,PM,10072018,Adult,Gray,Above Ground,in tree,False,False,True,True,False,peanuts,False,False,False,False,False,False,True,False
+-73,40,21F-AM-1018-05,AM,10182018,Adult,Cinnamon,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,True,False,False,True
+-73,40,9D-AM-1008-01,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,True,False,False,False,True
+-73,40,1G-AM-1006-02,AM,10062018,Juvenile,Gray,Above Ground,nan,False,False,True,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,12E-PM-1018-04,PM,10182018,Adult,Cinnamon,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,18I-AM-1017-02,AM,10172018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,True,False,False,True
+-73,40,15I-AM-1008-04,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,True,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,35D-AM-1019-01,AM,10192018,nan,nan,Above Ground,"on tree, blue jays gathering nearby",False,False,False,False,False,nan,True,False,False,False,False,False,False,False
+-73,40,32B-AM-1017-02,AM,10172018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,True,False,False,True
+-73,40,3D-PM-1010-12,PM,10102018,Adult,Cinnamon,Ground Plane,nan,True,True,False,False,True,nan,False,True,False,False,False,False,False,False
+-73,40,35C-PM-1013-02,PM,10132018,nan,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,True,False,False
+-73,40,37B-PM-1013-05,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,41D-PM-1014-03,PM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,16E-AM-1014-09,AM,10142018,Adult,Gray,Above Ground,In tree,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,18G-PM-1013-02,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,False
+-73,40,7D-PM-1010-01,PM,10102018,Adult,Gray,Ground Plane,outside fenced hectare,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,8G-PM-1017-01,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,4C-PM-1010-06,PM,10102018,Adult,Gray,Ground Plane,behind playground benches,False,False,False,True,False,nan,False,False,False,False,True,False,False,True
+-73,40,1C-PM-1013-06,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,14E-AM-1008-19,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,40G-AM-1007-02,AM,10072018,Juvenile,Cinnamon,Above Ground,nan,True,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,12H-PM-1007-08,PM,10072018,nan,nan,Above Ground,in tree,False,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,22G-AM-1018-05,AM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,23E-PM-1006-01,PM,10062018,Adult,Gray,Above Ground,on a tree,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,22G-AM-1018-02,AM,10182018,Adult,Gray,Ground Plane,nan,True,False,True,False,False,nan,True,False,False,False,False,False,False,True
+-73,40,16D-PM-1010-03,PM,10102018,Adult,Gray,Above Ground,nan,False,False,True,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,14D-AM-1014-16,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,11H-AM-1010-05,AM,10102018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,19F-PM-1017-04,PM,10172018,Adult,Gray,Ground Plane,nan,False,True,True,False,False,nan,False,False,False,False,True,False,False,True
+-73,40,30A-AM-1010-01,AM,10102018,Adult,Cinnamon,Above Ground,nan,True,False,True,False,False,nan,False,False,False,False,True,False,False,True
+-73,40,2E-AM-1010-02,AM,10102018,Adult,Gray,Ground Plane,nan,True,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,40D-PM-1013-05,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,11H-AM-1010-04,AM,10102018,nan,Gray,nan,nan,False,False,False,False,True,nan,False,False,False,False,True,False,False,False
+-73,40,41D-AM-1014-05,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,6D-PM-1020-04,PM,10202018,nan,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,9C-PM-1006-01,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,True
+-73,40,35A-AM-1014-04,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,15C-PM-1017-03,PM,10172018,Adult,Black,Above Ground,running across overpass,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,14E-AM-1008-06,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,16B-AM-1014-01,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,11A-PM-1013-01,PM,10132018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,False,eating (osage orange),False,False,False,False,False,False,True,False
+-73,40,33I-PM-1006-09,PM,10062018,Adult,Black,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,38E-AM-1010-07,AM,10102018,Adult,Gray,Above Ground,branches,True,True,False,False,False,chasing and being chased by #6,False,False,False,False,True,False,False,True
+-73,40,39B-PM-1014-03,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,36G-PM-1012-01,PM,10122018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,crossing east drive,False,False,False,False,False,False,False,False
+-73,40,14C-PM-1006-02,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,False,True
+-73,40,21F-PM-1018-03,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,21H-AM-1017-02,AM,10172018,Adult,Cinnamon,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,22F-AM-1007-02,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,standing,False,False,False,False,False,False,True,False
+-73,40,5G-PM-1010-03,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,15F-AM-1007-02,AM,10072018,Adult,Gray,Above Ground,nan,True,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,13D-PM-1018-09,PM,10182018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,3B-AM-1010-01,AM,10102018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,37D-PM-1014-05,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,14E-AM-1008-07,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,walking,False,False,False,False,False,False,True,False
+-73,40,40B-PM-1014-01,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,41A-PM-1007-03,PM,10072018,Adult,Gray,Above Ground,nan,True,False,True,False,False,nan,False,False,False,False,True,False,False,False
+-73,40,3I-PM-1013-05,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,16D-PM-1010-06,PM,10102018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,walking,False,False,False,False,False,False,False,False
+-73,40,37E-PM-1006-08,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,33C-AM-1012-02,AM,10122018,Adult,Gray,Above Ground,tree branches,False,True,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,10F-AM-1007-01,AM,10072018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,True,False,False,False,False
+-73,40,9B-PM-1013-04,PM,10132018,Juvenile,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,True,False,True,False
+-73,40,1C-AM-1012-01,AM,10122018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,True,False,False,False,True
+-73,40,7H-PM-1006-03,PM,10062018,Adult,Gray,Above Ground,tree,True,False,True,False,False,nan,False,False,False,True,False,False,True,False
+-73,40,3F-AM-1006-09,AM,10062018,Juvenile,Gray,Ground Plane,in grass by light post,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,22D-PM-1012-05,PM,10122018,Adult,Gray,nan,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,5C-PM-1010-10,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,True,False,False
+-73,40,17E-AM-1017-06,AM,10172018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,9G-PM-1007-05,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,1D-PM-1007-03,PM,10072018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,35A-AM-1014-06,AM,10142018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,42I-PM-1014-03,PM,10142018,nan,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,22C-PM-1006-05,PM,10062018,Juvenile,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,4B-PM-1018-01,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,True,False,False
+-73,40,10B-PM-1014-03,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,False
+-73,40,41D-PM-1014-01,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,"digging,drinking",False,False,False,False,False,False,False,True
+-73,40,25A-AM-1013-02,AM,10132018,nan,Gray,Above Ground,BIG TREE,False,True,False,False,False,chasing #3,False,False,False,True,False,False,True,False
+-73,40,35A-PM-1013-12,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,True,False,False,False,True
+-73,40,3I-AM-1010-04,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,16D-PM-1010-04,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,2C-PM-1013-08,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,nan,False,False,False,False,False,True,False,False
+-73,40,7B-AM-1008-01,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,22F-AM-1007-07,AM,10072018,Juvenile,Cinnamon,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,True,False,False,False
+-73,40,6A-AM-1006-04,AM,10062018,Adult,Gray,Ground Plane,nan,False,True,False,False,True,nan,False,False,False,False,True,False,False,False
+-73,40,6A-PM-1012-05,PM,10122018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,37G-PM-1007-03,PM,10072018,Adult,Gray,Above Ground,nan,False,False,False,True,False,"lying on belly on branch,eating big nut",False,False,False,False,False,False,False,False
+-73,40,13D-PM-1018-13,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,digging,False,False,False,False,False,False,True,False
+-73,40,33E-AM-1014-02,AM,10142018,Juvenile,Black,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,14B-PM-1014-06,PM,10142018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,False,watching me,False,False,False,False,False,True,False,False
+-73,40,7E-PM-1013-05,PM,10132018,Adult,Gray,Ground Plane,On rocks,False,False,False,True,True,nan,False,False,False,False,True,False,True,False
+-73,40,9A-AM-1013-11,AM,10132018,Juvenile,Gray,Ground Plane,foot of tree,True,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,11D-AM-1010-06,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,18C-PM-1018-03,PM,10182018,Juvenile,Gray,Above Ground,nan,True,True,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,36I-PM-1007-05,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,1A-PM-1014-02,PM,10142018,Adult,Cinnamon,Above Ground,nan,False,True,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,42G-PM-1014-01,PM,10142018,Adult,Gray,Above Ground,nan,False,False,True,False,True,nan,False,False,True,False,False,False,False,True
+-73,40,9I-PM-1010-07,PM,10102018,Adult,Gray,Above Ground,ran up tree,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,12C-AM-1013-02,AM,10132018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,True,False,False,False,False,False,True,False
+-73,40,37G-PM-1007-04,PM,10072018,nan,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,35E-AM-1020-03,AM,10202018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,8F-PM-1012-01,PM,10122018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,34I-PM-1010-06,PM,10102018,Adult,Gray,nan,nan,False,False,False,False,True,nan,False,False,False,False,True,False,False,False
+-73,40,33E-AM-1014-09,AM,10142018,Juvenile,Black,Above Ground,nan,False,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,16D-PM-1010-09,PM,10102018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,True,False,False,False,False,False,True,False
+-73,40,14H-AM-1007-01,AM,10072018,Adult,Gray,Above Ground,top of tree,True,False,False,False,False,jumping between branches,False,False,False,False,False,False,True,False
+-73,40,13H-PM-1010-09,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,29C-AM-1007-03,AM,10072018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,12G-PM-1007-05,PM,10072018,nan,Gray,Ground Plane,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,18H-PM-1014-03,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,True,False,False,True,False
+-73,40,15I-AM-1008-02,AM,10082018,Adult,Gray,Above Ground,on fence,False,False,False,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,42C-AM-1007-04,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,walking,False,False,False,False,False,False,True,False
+-73,40,38E-PM-1014-03,PM,10142018,nan,Gray,Ground Plane,THICK UNDERGROWTH,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,39C-AM-1017-04,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,5C-PM-1010-04,PM,10102018,Adult,Gray,Ground Plane,nan,True,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,14I-PM-1018-06,PM,10182018,Adult,Cinnamon,Above Ground,nan,True,False,True,False,False,nan,False,False,False,False,True,False,True,False
+-73,40,32E-PM-1017-01,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,9B-PM-1013-01,PM,10132018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,False,playing,False,False,False,False,True,False,True,False
+-73,40,26B-AM-1010-01,AM,10102018,Adult,Gray,Ground Plane,running across bridle path,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,31D-AM-1014-02,AM,10142018,Juvenile,Gray,Ground Plane,Undergrowth,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,5C-PM-1010-11,PM,10102018,Adult,Cinnamon,Ground Plane,nan,False,False,True,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,16C-AM-1014-04,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,5D-PM-1018-04,PM,10182018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,chasing (dog chasing),False,False,False,False,False,False,False,True
+-73,40,36B-PM-1013-03,PM,10132018,Adult,Gray,Ground Plane,nan,True,True,False,False,False,nan,False,False,False,False,True,False,False,True
+-73,40,40C-AM-1017-02,AM,10172018,Adult,Gray,Ground Plane,nan,False,True,False,True,False,chasing (#1),False,False,False,False,False,False,False,True
+-73,40,28I-AM-1013-01,AM,10132018,Adult,Gray,Ground Plane,Jumped onto path & then back into brush,False,False,False,False,False,stood on fence,False,False,False,False,False,False,False,True
+-73,40,38F-AM-1018-04,AM,10182018,Adult,Gray,Ground Plane,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,1F-AM-1010-01,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,26A-AM-1014-01,AM,10142018,nan,Gray,Ground Plane,nan,False,True,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,32E-AM-1007-05,AM,10072018,Adult,Black,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,17F-PM-1020-04,PM,10202018,Juvenile,Gray,Above Ground,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,11A-PM-1013-03,PM,10132018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,17E-AM-1017-01,AM,10172018,Adult,Gray,Ground Plane,Pond area,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,31I-PM-1019-02,PM,10192018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,32H-PM-1006-02,PM,10062018,nan,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,6A-PM-1012-07,PM,10122018,Adult,Cinnamon,Ground Plane,elevated ground,False,True,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,17A-AM-1017-01,AM,10172018,Adult,Gray,Above Ground,ground & tree,True,False,True,False,True,nan,False,False,False,False,True,False,False,True
+-73,40,40C-AM-1017-07,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,digging,False,False,False,False,False,False,True,False
+-73,40,8A-PM-1014-01,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,True,True,False,nan,True,False,False,False,False,False,False,True
+-73,40,13C-PM-1019-05,PM,10192018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,True,True,True,False
+-73,40,4E-PM-1008-03,PM,10082018,Adult,Gray,nan,nan,False,True,False,False,False,chasing #4,False,False,False,False,False,False,False,False
+-73,40,41E-PM-1013-05,PM,10132018,Juvenile,Gray,Above Ground,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,3H-AM-1008-05,AM,10082018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,True,False,False,False
+-73,40,41E-AM-1007-02,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,40E-AM-1014-03,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,True,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,2A-AM-1010-02,AM,10102018,nan,Gray,Above Ground,perched on small fence,False,False,False,True,False,nan,False,False,False,False,True,False,False,True
+-73,40,3A-PM-1017-03,PM,10172018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,True,False,False
+-73,40,30I-PM-1006-02,PM,10062018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,True,False,False,False,True
+-73,40,17C-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,then perched on 2-ft high border fencing,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,9A-AM-1013-04,AM,10132018,Juvenile,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,9E-PM-1014-02,PM,10142018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,41D-AM-1014-02,AM,10142018,Adult,Gray,Above Ground,nan,False,False,False,False,False,jumping,False,False,False,False,False,False,True,False
+-73,40,14G-AM-1012-02,AM,10122018,nan,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,7H-PM-1006-09,PM,10062018,Adult,Black,Ground Plane,by tree,False,False,False,True,True,nan,False,False,False,True,False,True,False,True
+-73,40,38D-AM-1017-03,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,digging,False,False,False,False,False,False,False,False
+-73,40,22F-AM-1007-03,AM,10072018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,5I-AM-1010-01,AM,10102018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,12C-AM-1013-01,AM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,burying,False,False,False,False,False,False,True,False
+-73,40,3E-AM-1006-02,AM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,True,False,False,False,True
+-73,40,3H-PM-1014-07,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,39D-AM-1008-03,AM,10082018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,9I-AM-1014-09,AM,10142018,Adult,Gray,Above Ground,nan,False,False,True,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,28D-AM-1012-04,AM,10122018,Adult,Cinnamon,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,10G-AM-1006-07,AM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,True,False,True,False
+-73,40,1B-AM-1012-10,AM,10122018,Juvenile,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,True,False,False
+-73,40,32D-PM-1006-04,PM,10062018,Adult,Gray,Above Ground,nan,False,False,False,True,False,nan,False,False,False,False,True,False,True,False
+-73,40,5I-AM-1010-02,AM,10102018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,32F-PM-1008-05,PM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,34E-PM-1006-01,PM,10062018,Adult,Gray,Above Ground,nan,False,False,False,False,False,sitting and watching on a tree,False,False,False,False,False,False,True,False
+-73,40,2D-AM-1007-01,AM,10072018,Adult,Gray,Ground Plane,nan,True,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,3E-AM-1006-01,AM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,5I-AM-1010-05,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,True,False,True,False
+-73,40,3A-PM-1017-08,PM,10172018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,True,False,False
+-73,40,4C-PM-1010-11,PM,10102018,Adult,Gray,Ground Plane,nan,True,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,40E-PM-1017-02,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,38E-AM-1010-02,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,32I-AM-1013-04,AM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,True,False,False,True,False
+-73,40,19F-PM-1017-06,PM,10172018,Adult,Gray,Ground Plane,nan,True,True,True,False,False,nan,False,False,False,False,True,True,False,False
+-73,40,13E-AM-1017-11,AM,10172018,Adult,Gray,Above Ground,on/in log,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,14F-PM-1012-07,PM,10122018,Adult,Cinnamon,Ground Plane,nan,True,True,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,19F-AM-1007-01,AM,10072018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,17D-AM-1008-06,AM,10082018,nan,nan,Above Ground,"high in tree, couldn't see it, only heard it",False,False,False,False,False,nan,True,False,False,False,False,False,False,False
+-73,40,22F-AM-1007-04,AM,10072018,Adult,Cinnamon,nan,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,37C-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,13E-PM-1008-05,PM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,9A-PM-1010-01,PM,10102018,Adult,nan,Ground Plane,by large tree in sectioned off area,False,False,True,False,False,i think it climbed the tree when i first saw it.,False,False,False,False,False,False,True,False
+-73,40,18C-PM-1018-08,PM,10182018,Juvenile,Black,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,26I-PM-1010-04,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,True,False,False
+-73,40,21A-AM-1019-06,AM,10192018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,16D-AM-1007-02,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,13G-PM-1008-03,PM,10082018,Juvenile,Cinnamon,Above Ground,maple tree,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,15I-AM-1008-05,AM,10082018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,7H-PM-1006-05,PM,10062018,Adult,Gray,Ground Plane,"Ran across path to eat behind fence, next to the fence.",True,False,False,True,True,nan,False,False,False,False,True,False,False,True
+-73,40,32F-AM-1012-03,AM,10122018,Adult,Gray,Above Ground,nan,False,False,True,False,False,bringing green leaves to nest,False,False,False,False,False,False,False,False
+-73,40,42H-AM-1019-01,AM,10192018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,False
+-73,40,8I-AM-1006-12,AM,10062018,Adult,Gray,Above Ground,tree,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,40G-PM-1013-06,PM,10132018,Juvenile,Gray,Ground Plane,along the road,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,21G-AM-1014-03,AM,10142018,Adult,Gray,Above Ground,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,38D-AM-1017-05,AM,10172018,Adult,Gray,Ground Plane,nan,True,False,False,True,False,eating (nut),False,False,False,False,False,False,False,True
+-73,40,2C-AM-1010-09,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,False
+-73,40,3D-PM-1010-01,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,35F-PM-1012-01,PM,10122018,Juvenile,Gray,Ground Plane,nan,True,False,False,True,True,nan,False,False,False,True,False,False,True,True
+-73,40,33B-AM-1010-06,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,35C-AM-1007-06,AM,10072018,Adult,nan,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,38I-PM-1014-04,PM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,9H-PM-1018-01,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,9A-PM-1010-02,PM,10102018,Adult,nan,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,7E-AM-1006-06,AM,10062018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,True,False,False
+-73,40,40C-AM-1017-06,AM,10172018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,14F-AM-1007-03,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,4D-PM-1008-14,PM,10082018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,5E-AM-1008-03,AM,10082018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,40C-PM-1006-08,PM,10062018,Adult,Gray,Ground Plane,By the main road,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,15H-PM-1008-07,PM,10082018,Adult,Gray,Ground Plane,along bottom of rock outcropping,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,30C-AM-1014-01,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,True,False,True,False
+-73,40,19E-PM-1018-01,PM,10182018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,True,False,False,True
+-73,40,4I-PM-1007-02,PM,10072018,Adult,Black,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,8D-AM-1007-07,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,19F-PM-1017-03,PM,10172018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,True,False,False
+-73,40,36I-AM-1017-08,AM,10172018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,chasing (#7),False,False,False,False,True,False,False,True
+-73,40,14F-AM-1007-06,AM,10072018,Juvenile,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,14A-PM-1014-06,PM,10142018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,21G-PM-1007-04,PM,10072018,nan,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,True,False,False,False,True
+-73,40,32D-PM-1006-03,PM,10062018,Adult,Gray,Above Ground,nan,False,False,False,True,False,nan,False,False,False,False,True,False,True,False
+-73,40,4C-PM-1010-15,PM,10102018,Juvenile,Gray,Above Ground,on tree,False,True,False,False,False,chasing #14,False,False,False,False,False,False,True,False
+-73,40,31D-PM-1006-01,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,True,False,False,False,True
+-73,40,4G-AM-1006-04,AM,10062018,Adult,Black,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,17D-AM-1008-02,AM,10082018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,8B-AM-1007-01,AM,10072018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,True,False,True,False
+-73,40,14D-AM-1014-11,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,9F-PM-1014-05,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,20F-AM-1014-01,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,10F-PM-1019-06,PM,10192018,Adult,Gray,Above Ground,Different tree,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,4H-AM-1006-02,AM,10062018,Adult,Gray,Ground Plane,nan,False,False,True,False,False,climbing (over small wire fence then on the ground),False,False,False,False,False,True,False,True
+-73,40,33B-PM-1010-10,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,True,False,False,False,False,False,False,False
+-73,40,33F-PM-1012-06,PM,10122018,Adult,Gray,Ground Plane,nan,False,True,False,True,True,nan,True,False,False,False,True,False,False,False
+-73,40,3B-PM-1007-10,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,hopping,False,False,False,False,False,False,True,False
+-73,40,2E-PM-1014-02,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,36F-AM-1017-04,AM,10172018,Juvenile,Gray,Ground Plane,nan,True,False,False,True,True,nan,True,False,False,False,False,True,False,True
+-73,40,13A-PM-1014-02,PM,10142018,Adult,Gray,Above Ground,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,16G-AM-1010-02,AM,10102018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,37B-AM-1018-01,AM,10182018,Adult,Black,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,True,False,True,False
+-73,40,7B-AM-1008-02,AM,10082018,Adult,Gray,Above Ground,nan,False,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,3F-PM-1013-03,PM,10132018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,15E-PM-1008-01,PM,10082018,Adult,Gray,Above Ground,on fallen tree,True,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,15D-AM-1007-07,AM,10072018,Adult,Gray,Ground Plane,nan,False,True,False,False,True,chasing #8,False,False,False,False,False,False,True,False
+-73,40,20C-PM-1018-01,PM,10182018,Juvenile,Gray,Ground Plane,nan,True,True,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,9A-PM-1010-03,PM,10102018,nan,Gray,Ground Plane,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,4H-AM-1006-04,AM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,met #3 while foraging and briefly tussled,False,False,False,False,False,False,True,False
+-73,40,33G-PM-1006-01,PM,10062018,Juvenile,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,41B-PM-1014-02,PM,10142018,Adult,Black,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,4C-AM-1006-02,AM,10062018,Juvenile,Gray,Ground Plane,nan,True,False,False,True,True,nan,False,False,False,False,True,False,True,False
+-73,40,7A-AM-1006-03,AM,10062018,Adult,Gray,Above Ground,"in trees, then to ground",True,False,True,False,False,jumping,False,False,False,False,False,False,True,False
+-73,40,12E-AM-1017-08,AM,10172018,Adult,Gray,Above Ground,nan,False,False,False,True,False,chilling,False,False,False,False,False,False,True,False
+-73,40,14E-AM-1008-17,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,18A-AM-1012-02,AM,10122018,Adult,Gray,Above Ground,nan,False,False,True,True,True,burying,False,False,False,True,False,False,False,True
+-73,40,8C-PM-1013-07,PM,10132018,nan,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,23B-PM-1012-02,PM,10122018,Adult,Gray,Ground Plane,nan,False,True,False,False,True,2/3 were chasing each other,False,False,False,False,True,False,False,True
+-73,40,6B-PM-1017-06,PM,10172018,Adult,Gray,Ground Plane,nan,True,True,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,13A-AM-1017-01,AM,10172018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,23B-PM-1012-05,PM,10122018,Adult,Gray,Above Ground,chain link fence,False,True,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,21B-AM-1019-02,AM,10192018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,20F-AM-1014-02,AM,10142018,Adult,Gray,Above Ground,nan,False,False,True,False,False,pulling leaves,True,False,False,False,False,False,False,False
+-73,40,11D-AM-1010-01,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,True,True,True,nan,False,False,False,False,False,False,False,True
+-73,40,9B-AM-1010-01,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,True,False,False,False,False,False,False,True
+-73,40,33D-AM-1017-07,AM,10172018,Adult,Black,Ground Plane,nan,False,False,False,False,True,nan,False,True,False,True,False,False,True,False
+-73,40,20G-AM-1018-02,AM,10182018,Adult,Gray,Above Ground,Ran up tree,True,False,True,False,False,nan,True,False,False,False,False,False,False,False
+-73,40,33E-PM-1012-07,PM,10122018,Adult,Gray,Ground Plane,nan,True,True,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,31H-PM-1008-01,PM,10082018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,26A-PM-1006-03,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,31E-PM-1006-01,PM,10062018,Adult,Gray,Ground Plane,under bushes,False,False,False,False,True,nan,False,True,False,False,False,False,True,False
+-73,40,14F-PM-1012-02,PM,10122018,Adult,Gray,Above Ground,nan,False,False,True,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,17G-AM-1018-01,AM,10182018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,17E-AM-1017-03,AM,10172018,Adult,Gray,Above Ground,Tree trunk,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,10C-PM-1013-02,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,True,False,True,True
+-73,40,22C-PM-1006-06,PM,10062018,Juvenile,Cinnamon,Above Ground,on tree,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,35G-AM-1007-01,AM,10072018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,16C-PM-1018-01,PM,10182018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,25A-AM-1013-03,AM,10132018,nan,Gray,Above Ground,BIG TREE,False,False,False,False,False,being chased by #2,False,False,False,False,False,False,True,False
+-73,40,22F-PM-1014-03,PM,10142018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,True,False,False,True,False
+-73,40,33B-PM-1010-12,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,36I-AM-1017-03,AM,10172018,Adult,Gray,Ground Plane,nan,True,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,2I-PM-1006-02,PM,10062018,Adult,Gray,Ground Plane,nan,True,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,12G-AM-1012-01,AM,10122018,Adult,Cinnamon,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,25A-PM-1007-01,PM,10072018,Adult,Cinnamon,Above Ground,tree,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,9C-PM-1006-06,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,6B-PM-1017-03,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,10D-AM-1008-05,AM,10082018,Juvenile,Gray,Above Ground,nan,False,False,True,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,14B-PM-1014-05,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,2C-PM-1013-09,PM,10132018,Adult,nan,Ground Plane,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,41A-PM-1007-05,PM,10072018,Adult,Gray,Ground Plane,nan,True,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,13E-AM-1017-12,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,15E-AM-1013-02,AM,10132018,Adult,Gray,Above Ground,nan,True,False,True,False,False,nan,False,False,False,False,False,True,False,False
+-73,40,1B-AM-1012-17,AM,10122018,Adult,Gray,Ground Plane,nan,False,False,True,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,36I-PM-1007-06,PM,10072018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,15F-AM-1007-08,AM,10072018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,8D-AM-1007-08,AM,10072018,Adult,Gray,Above Ground,nan,False,False,False,False,False,communicating from tree,False,False,False,False,False,False,False,False
+-73,40,41A-AM-1013-01,AM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,ran across a path,False,False,False,False,False,False,True,False
+-73,40,8I-PM-1013-09,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,19B-AM-1019-01,AM,10192018,Juvenile,Gray,Ground Plane,nan,True,False,False,True,False,nan,False,False,False,False,False,False,True,True
+-73,40,15D-PM-1017-04,PM,10172018,Adult,Cinnamon,Above Ground,on fence,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,13E-AM-1017-02,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,begging (came one yard away from me and stood there),False,False,False,False,False,True,False,False
+-73,40,3D-PM-1010-10,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,15C-PM-1017-02,PM,10172018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,32A-PM-1013-09,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,15G-AM-1008-05,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,7B-AM-1008-03,AM,10082018,Adult,Gray,Above Ground,nan,False,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,15E-PM-1008-07,PM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,4D-PM-1008-01,PM,10082018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,36A-PM-1013-06,PM,10132018,nan,Gray,Ground Plane,EDGE OF WOODS,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,8C-PM-1013-02,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,True,False,False,True,False
+-73,40,6A-AM-1006-07,AM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,True,False,True,False
+-73,40,41E-AM-1007-01,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,31D-AM-1014-06,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,36B-AM-1013-02,AM,10132018,nan,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,3A-AM-1012-03,AM,10122018,Juvenile,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,True,False,False,True
+-73,40,34D-AM-1008-02,AM,10082018,Adult,Black,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,41B-AM-1010-09,AM,10102018,Adult,Gray,Above Ground,nan,False,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,39F-AM-1014-04,AM,10142018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,37B-PM-1013-04,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,39C-PM-1006-03,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,37F-PM-1014-02,PM,10142018,Juvenile,Gray,Ground Plane,LAWN,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,21A-AM-1019-08,AM,10192018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,34I-PM-1010-03,PM,10102018,Adult,Gray,Ground Plane,in the playground.,True,False,False,False,True,with some nuts in the mouth,False,False,False,False,False,False,False,False
+-73,40,16C-AM-1014-02,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,True,False,False
+-73,40,31E-PM-1006-03,PM,10062018,Adult,Gray,Ground Plane,under bushes,False,False,False,True,True,burying,False,False,False,False,False,False,True,False
+-73,40,36D-PM-1007-02,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,True,True,False
+-73,40,23B-PM-1012-01,PM,10122018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,12B-PM-1018-01,PM,10182018,Adult,Gray,Ground Plane,Climbing up rocks,False,False,True,False,True,climbing (up rocks),False,False,False,False,False,False,False,True
+-73,40,10G-PM-1017-01,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,standing,False,False,False,False,False,False,True,False
+-73,40,14D-AM-1014-09,AM,10142018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,3F-AM-1006-01,AM,10062018,Adult,Gray,Ground Plane,just to right when enter sanctuary,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,35G-PM-1006-01,PM,10062018,Adult,Black,Ground Plane,nan,True,False,True,False,False,nan,False,False,False,False,True,False,False,True
+-73,40,9I-AM-1014-02,AM,10142018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,35A-PM-1013-08,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,False,True
+-73,40,39A-PM-1014-01,PM,10142018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,9C-PM-1006-05,PM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,17I-AM-1014-04,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,True,True,False
+-73,40,14D-AM-1014-12,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,True,False,False
+-73,40,17I-PM-1017-01,PM,10172018,Juvenile,Cinnamon,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,39B-PM-1014-01,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,42A-AM-1019-01,AM,10192018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,2E-AM-1010-01,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,14F-AM-1007-02,AM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,8D-AM-1007-04,AM,10072018,Adult,Gray,Above Ground,nan,False,True,False,False,False,chasing squirrel #3,False,False,False,False,False,False,False,False
+-73,40,22F-AM-1007-06,AM,10072018,Adult,Cinnamon,Ground Plane,nan,False,False,True,True,False,nan,False,False,False,False,False,True,False,False
+-73,40,36I-AM-1017-04,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,34B-AM-1013-03,AM,10132018,Adult,Cinnamon,Above Ground,nan,True,False,True,False,False,hopping,False,False,False,False,False,True,False,True
+-73,40,36I-AM-1017-07,AM,10172018,Adult,Gray,Ground Plane,nan,False,True,False,False,True,"chasing (#8),scratching",True,False,False,False,True,False,True,False
+-73,40,32G-PM-1013-02,PM,10132018,Juvenile,Black,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,2A-PM-1019-01,PM,10192018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,runs from,False,False,False,True,False,False,False,True
+-73,40,35D-PM-1013-07,PM,10132018,Juvenile,Gray,Above Ground,tree,False,False,True,False,False,nan,False,False,False,False,True,False,True,False
+-73,40,8G-PM-1017-02,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,29C-AM-1007-02,AM,10072018,Adult,Black,Above Ground,nan,True,False,True,False,False,nan,False,True,False,False,False,False,False,True
+-73,40,36B-PM-1013-02,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,True,False,False,nan,False,False,False,False,True,True,False,True
+-73,40,17B-AM-1010-01,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,True,False,True,False
+-73,40,37H-PM-1006-04,PM,10062018,nan,nan,Above Ground,tree,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,30C-AM-1014-02,AM,10142018,Adult,Gray,Ground Plane,on a rock,True,False,False,False,True,nan,False,False,False,False,True,False,True,False
+-73,40,4D-PM-1008-05,PM,10082018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,18C-PM-1018-05,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,11C-PM-1018-01,PM,10182018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,2B-PM-1013-06,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,nan,False,False,False,False,False,True,False,False
+-73,40,9A-AM-1013-08,AM,10132018,Adult,nan,nan,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,7E-PM-1013-04,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,True,True,nan,False,False,False,False,True,False,False,False
+-73,40,33A-PM-1018-03,PM,10182018,Adult,Gray,Above Ground,nan,True,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,7G-PM-1018-04,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,39B-PM-1014-02,PM,10142018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,34H-PM-1006-01,PM,10062018,Adult,Black,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,7B-AM-1008-04,AM,10082018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,36C-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,Clearing near bike path (bikes active),False,True,False,True,True,nan,False,False,False,False,True,False,True,False
+-73,40,14E-PM-1017-04,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,False
+-73,40,26A-PM-1006-02,PM,10062018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,False,not moving,False,False,False,False,False,False,False,False
+-73,40,9F-PM-1014-03,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,2F-PM-1014-03,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,8E-PM-1008-07,PM,10082018,Adult,Gray,Ground Plane,"5, 6, 7 all at same tree trunk base",False,True,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,36F-PM-1012-02,PM,10122018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,8D-PM-1007-01,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,4B-PM-1018-02,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,True,False,False
+-73,40,40D-PM-1013-02,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,16E-PM-1018-01,PM,10182018,Juvenile,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,True,False,True,False
+-73,40,2F-PM-1014-08,PM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,14E-AM-1008-04,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,32A-PM-1013-05,PM,10132018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,True,False,False,False,True
+-73,40,15G-PM-1019-03,PM,10192018,Juvenile,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,11I-PM-1012-04,PM,10122018,Adult,Gray,Above Ground,nan,True,False,True,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,15H-PM-1008-02,PM,10082018,Adult,Gray,Above Ground,oak tree,False,True,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,31D-AM-1014-03,AM,10142018,nan,Gray,Ground Plane,Undergrowth,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,22I-AM-1007-02,AM,10072018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,2B-AM-1010-03,AM,10102018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,17F-AM-1007-02,AM,10072018,Adult,Cinnamon,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,6A-AM-1006-08,AM,10062018,Adult,Gray,Ground Plane,nan,True,False,False,True,True,nan,False,False,False,False,True,False,True,False
+-73,40,6D-AM-1008-02,AM,10082018,Juvenile,Gray,Above Ground,nan,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,6F-PM-1008-04,PM,10082018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,37G-AM-1014-03,AM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,2C-AM-1010-08,AM,10102018,Adult,Gray,Above Ground,stay on side of trunk,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,31B-AM-1017-03,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,12F-PM-1007-12,PM,10072018,Adult,Gray,Above Ground,nan,False,False,False,False,True,going down tree,False,False,False,False,False,False,True,False
+-73,40,20B-PM-1013-08,PM,10132018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,being chased by dog,False,False,False,False,False,False,False,True
+-73,40,7G-AM-1010-04,AM,10102018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,36I-PM-1007-04,PM,10072018,Adult,Gray,Ground Plane,nan,False,True,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,11A-PM-1013-05,PM,10132018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,True,digging,False,False,False,False,True,False,False,False
+-73,40,27A-AM-1008-01,AM,10082018,Adult,Gray,Above Ground,nan,False,True,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,32F-AM-1012-06,AM,10122018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,26I-PM-1010-05,PM,10102018,Adult,Gray,Above Ground,tree,False,False,True,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,21D-PM-1008-05,PM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,2B-AM-1010-07,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,8H-AM-1017-01,AM,10172018,Adult,Gray,Ground Plane,nan,False,True,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,36D-PM-1007-01,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,42G-AM-1018-01,AM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,True,False,True
+-73,40,3E-AM-1006-04,AM,10062018,Juvenile,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,9A-AM-1013-02,AM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,38E-AM-1010-04,AM,10102018,Adult,Gray,Ground Plane,nan,True,False,True,False,False,nan,False,False,False,True,False,False,False,True
+-73,40,11H-AM-1010-01,AM,10102018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,True,False,False
+-73,40,11H-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,nut in mouth,False,False,False,False,False,False,True,False
+-73,40,30B-AM-1007-09,AM,10072018,Adult,Gray,Above Ground,nan,False,False,True,False,False,jumping b/w trees,False,False,False,False,False,False,False,False
+-73,40,41B-PM-1014-04,PM,10142018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,9H-AM-1006-05,AM,10062018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,10F-PM-1019-10,PM,10192018,Adult,Gray,Ground Plane,Arbor path & hill w/ bushes,True,False,False,True,True,nan,False,False,False,False,True,False,True,False
+-73,40,32G-AM-1010-02,AM,10102018,Adult,Gray,Above Ground,nan,False,False,True,True,False,nan,False,False,False,False,True,False,False,True
+-73,40,35D-PM-1013-08,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,4D-PM-1008-03,PM,10082018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,25I-PM-1007-07,PM,10072018,Adult,Gray,Above Ground,playing very high in tree w/ #8,False,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,37A-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,17F-AM-1007-05,AM,10072018,Juvenile,Cinnamon,Ground Plane,nan,True,False,False,True,False,nan,False,False,False,True,False,False,True,False
+-73,40,10D-AM-1008-01,AM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,True,False,False,False,True,False,False,True
+-73,40,32B-AM-1017-01,AM,10172018,Adult,Gray,Above Ground,ran up a tree,True,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,6A-PM-1012-01,PM,10122018,Adult,Cinnamon,Ground Plane,nan,False,False,True,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,13C-PM-1019-04,PM,10192018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,33B-PM-1010-01,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,1E-PM-1007-02,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,22C-PM-1006-10,PM,10062018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,True,False,False,False,False,False,False,False
+-73,40,24A-PM-1007-02,PM,10072018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,9G-PM-1007-03,PM,10072018,Adult,Cinnamon,Ground Plane,nan,True,False,True,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,9H-PM-1018-02,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,4D-PM-1008-02,PM,10082018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,14E-PM-1017-05,PM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,13D-AM-1014-10,AM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,True,False,False
+-73,40,40G-AM-1007-01,AM,10072018,Adult,Gray,Above Ground,large tree,False,False,True,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,8A-AM-1013-06,AM,10132018,Juvenile,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,7E-AM-1006-01,AM,10062018,Adult,Gray,Ground Plane,under a tree,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,37H-AM-1018-01,AM,10182018,Adult,Gray,Ground Plane,Right behind fence of the conservatory,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,20F-PM-1007-09,PM,10072018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,True,False,False
+-73,40,1H-AM-1012-02,AM,10122018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,32G-AM-1010-01,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,8H-PM-1014-09,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,29B-AM-1007-01,AM,10072018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,17B-PM-1012-01,PM,10122018,Adult,Gray,Above Ground,climbed a fence,True,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,13E-PM-1008-11,PM,10082018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,36H-PM-1008-01,PM,10082018,Adult,Gray,Above Ground,nan,True,False,True,False,True,nan,True,True,False,False,False,False,True,False
+-73,40,19F-AM-1007-03,AM,10072018,Juvenile,Cinnamon,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,False
+-73,40,36A-PM-1013-08,PM,10132018,nan,Gray,Ground Plane,"""FIELD""",True,False,False,False,False,running from #7,False,False,False,False,False,False,False,True
+-73,40,37D-PM-1014-08,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,32F-PM-1008-08,PM,10082018,Adult,Gray,Ground Plane,nan,True,True,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,32C-AM-1014-03,AM,10142018,Adult,Gray,Above Ground,nan,False,True,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,11B-PM-1014-04,PM,10142018,nan,Gray,Ground Plane,nan,False,False,False,False,True,jumping,False,False,False,False,False,False,False,False
+-73,40,22H-PM-1007-04,PM,10072018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,2H-AM-1006-03,AM,10062018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,6H-PM-1020-03,PM,10202018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,True
+-73,40,34A-AM-1012-03,AM,10122018,Adult,Gray,Ground Plane,nan,True,False,False,True,True,nan,False,False,False,False,False,False,False,True
+-73,40,30B-PM-1019-04,PM,10192018,Adult,Gray,Ground Plane,nan,True,False,True,True,True,nan,False,False,False,False,False,False,False,True
+-73,40,19A-PM-1013-01,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,planting acorns,False,False,False,False,False,False,True,False
+-73,40,33E-AM-1014-12,AM,10142018,Adult,Gray,Above Ground,nan,False,False,False,False,False,sleeping,False,False,False,False,False,False,False,False
+-73,40,9I-AM-1014-06,AM,10142018,Adult,Cinnamon,Ground Plane,nan,False,False,True,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,9I-PM-1010-04,PM,10102018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,7B-AM-1008-12,AM,10082018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,9H-PM-1018-09,PM,10182018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,False,False
+-73,40,1D-PM-1007-04,PM,10072018,Adult,Cinnamon,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,10G-AM-1006-02,AM,10062018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,False,True
+-73,40,13E-AM-1017-09,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,2F-PM-1014-12,PM,10142018,Adult,Gray,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,41C-AM-1017-05,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,4G-PM-1007-01,PM,10072018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,1F-AM-1010-05,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,True,False
+-73,40,15G-AM-1008-03,AM,10082018,Adult,Gray,Ground Plane,nan,False,True,False,False,False,nan,True,False,False,False,False,False,False,False
+-73,40,36A-PM-1013-09,PM,10132018,nan,Gray,Ground Plane,THICK UNDERGROWTH,True,False,False,False,False,nan,False,False,False,False,True,False,False,True
+-73,40,14D-PM-1019-07,PM,10192018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,15G-PM-1019-12,PM,10192018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,16F-AM-1008-01,AM,10082018,Adult,Cinnamon,Ground Plane,near fence,False,False,False,False,True,nan,False,False,False,False,True,True,False,False
+-73,40,30B-AM-1007-05,AM,10072018,Adult,Gray,Above Ground,nan,True,False,False,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,17F-PM-1020-01,PM,10202018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,22B-PM-1014-07,PM,10142018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,nan,False,False,False,False,True,False,True,False
+-73,40,2C-PM-1013-03,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,True,False,nan,False,False,False,False,False,False,False,False
+-73,40,21F-AM-1018-06,AM,10182018,Adult,Cinnamon,Ground Plane,nan,True,False,False,False,False,nan,False,False,False,False,True,False,False,True
+-73,40,2C-AM-1010-06,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,False,stood still & watched me then jumped on a fence and ran away,False,False,False,False,False,False,True,True
+-73,40,35C-PM-1013-05,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,32B-PM-1010-06,PM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,False,True,False
+-73,40,30B-PM-1019-03,PM,10192018,Adult,Gray,Above Ground,nan,False,False,True,False,False,nan,False,False,False,False,False,False,False,False
+-73,40,19A-PM-1013-03,PM,10132018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,8A-AM-1013-02,AM,10132018,Juvenile,Gray,Ground Plane,playground,True,False,False,False,False,nan,False,False,False,False,False,False,False,True
+-73,40,11D-AM-1010-05,AM,10102018,Adult,Gray,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,18C-PM-1018-02,PM,10182018,Juvenile,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,False,False,False,False
+-73,40,16D-AM-1007-01,AM,10072018,Adult,Gray,Above Ground,nan,False,False,True,True,False,nan,False,False,False,False,False,False,False,True
+-73,40,3B-AM-1010-10,AM,10102018,Adult,Cinnamon,Ground Plane,nan,False,False,False,True,True,nan,False,False,False,False,False,False,True,False
+-73,40,33D-AM-1017-03,AM,10172018,Adult,Gray,Ground Plane,nan,False,False,False,False,True,nan,False,False,False,False,False,True,True,False
+-73,40,2A-PM-1019-04,PM,10192018,Juvenile,Gray,Above Ground,in tree!,True,False,False,False,False,nan,False,False,False,False,False,False,True,False
+-73,40,2A-AM-1010-08,AM,10102018,Adult,Gray,Ground Plane,nan,True,False,False,False,True,nan,False,False,False,False,True,False,False,False
