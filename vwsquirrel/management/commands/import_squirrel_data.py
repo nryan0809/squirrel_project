@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand, CommandError
-from vwsquirrel.models import squirrel_model as sm
+from vwsquirrel.models import squ_model as sm
 import pandas as pd
 class Command(BaseCommand):
     def add_arguments(self, parser):

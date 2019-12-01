@@ -4,10 +4,10 @@ from django.apps import apps
 from django.http import HttpResponseRedirect
 from django.urls import reverse
 from django.views import generic
-from .models import squirrel_model
+from .models import squ_model
 
 def index(request):
-    squirrels = squirrel_model.objects.all()
+    squirrels = squ_model.objects.all()
     context = {'squirrels': squirrels,
             }
     return render(request, 'vwsquirrel/index.html', context)
