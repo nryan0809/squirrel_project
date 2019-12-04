@@ -3,4 +3,5 @@ from . import views
 app_name = 'vwsquirrel'
 urlpatterns = [
         path('', views.index, name='index'),
+        path('add/',views.add,name='add')
         ]
