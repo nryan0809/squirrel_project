@@ -14,14 +14,14 @@ def index(request):
     return render(request, 'vwsquirrel/index.html', context)
 
 
-class SightingForm(ModelForm):
+class SquForm(ModelForm):
     class Meta:
         model = squ_model
         fields = '__all__'
 
 def add(request):
     if request.method == 'POST':
-        form = SightingForm(request.POST)
+        form = SquForm(request.POST)
         form.save()
         return redirect('/sightings/')
     return render(request,'vwsquirrel/add.html')
