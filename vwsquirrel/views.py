@@ -33,7 +33,7 @@ def detail(request,Unique_Squirrel_ID):
             details.delete()
         else:
             details = SquForm(instance=details,data=request.POST)
-       #     if details.is_valid():
-            details.save()
+            if details.is_valid():
+                 details.save()
         return redirect('/sightings/')
     return render(request, 'vwsquirrel/detail.html')
