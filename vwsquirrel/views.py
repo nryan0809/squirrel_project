@@ -5,15 +5,6 @@ from django.http import HttpResponseRedirect
 from django.urls import reverse
 from django.views import generic
 from .models import squ_model
-<<<<<<< HEAD
-from django.forms import ModelForm
-
-class SightingForm(ModelForm):
-    class Meta:
-        model = squ_model
-        fields = '__all__'
-=======
->>>>>>> b7b37774823c9a767613a3f113c220ce48543b8f
 
 def index(request):
     squirrels = squ_model.objects.all()
@@ -51,12 +42,3 @@ def detail(request,Unique_Squirrel_ID):
 
     context={'details':details}
     return render(request,'vwsquirrel/detail.html',context)
-def add(request):
-    if request.method == 'POST':
-        form = SightingForm(request.POST)
-        if form.is_valid():
-            form.save()
-            return redirect('sightings')
-    else:
-        form = SightingForm()
-    return render(request, 'squirrel_tracker/add.html', {'form': form})

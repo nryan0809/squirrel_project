@@ -4,5 +4,4 @@ app_name = 'vwsquirrel'
 urlpatterns = [
         path('', views.index, name='index'),
         path('<Unique_Squirrel_ID>/', views.details, name = "details"),
-        path('add/',views.add,name='add'),
         ]
