@@ -26,3 +26,14 @@ def add(request):
         return redirect('/sightings/')
     return render(request,'vwsquirrel/add.html')
 
+def detail(request,Unique_Squirrel_ID):
+    details = get_object_or_404(squ_model,Unique_Squirrel_ID=Unique_Squirrel_ID)
+    if request.method == "POST":
+        if 'delete' in request.POST:
+            details.delete()
+        else:
+            details = SquForm(instance=details,data=request.POST)
+       #     if details.is_valid():
+            details.save()
+        return redirect('/sightings/')
+    return render(request, 'vwsquirrel/detail.html')

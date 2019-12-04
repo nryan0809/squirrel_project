@@ -1,8 +1,103 @@
 <html>
 	<head>
-	
+	<title>{{details.Unique_Squirrel_ID}}</title>	
 	</head>
 
 	<body>
-
+		<form action="" method="post">
+		{% csrf_token %}
+	<ul>
+        <li><h5>Latitude:</h5>
+        <input type='number' name='Latitude'>
+        </li>
+        <li><h5>Longitude:</h5>
+        <input type="number" name="Longitude">
+        </li>
+        <li><h5>Unique_Squirrel_ID:</h5>
+        <input type="text" name="Unique_Squirrel_ID">
+        </li>
+        <li><h5>Shift:</h5>
+        <input type="checkbox" name="Shift" value="AM"> AM<br>
+        <input type="checkbox" name="Shift" value="PM" checked> PM<br>
+        </li>
+        <li><h5>Date:</h5>
+        <input type="date" name="Date">
+        </li>
+        <li><h5>Age: </h5>
+        <input type='checkbox' name='Age' value='Adult'> Adult<br>
+        <input type='checkbox' name='Age' value='Juvenile'checked> Juvenile<br>
+        </li>
+	<li><h5>Primary_Fur_Color: </h5>
+        <input type='checkbox' name='Primary_Fur_Color' value='Gray'> Gray<br>
+        <input type='checkbox' name='Primary_Fur_Color' value='Cinnamon'> Cinnamon<br>
+        <input type='checkbox' name='Primary_Fur_Color' value='Black'checked> Black<br>
+        </li>
+        <li><h5>Location:</h5>
+        <input type='checkbox' name='Location' value='Ground Plane'checked> Ground Plane <br>
+        <input type='checkbox' name='Location' value='Above Ground'> Above Ground <br>
+        </li>
+        <li><h5>Specific_Location: </h5>
+        <input type='text' name="Specific_Location">
+        </li>
+        <li><h5>Running: </h5>
+        <input type='checkbox' name='Running' value='True'> True<br>
+        <input type='checkbox' name='Running' value='False'checked> False<br>
+        </li>
+        <li><h5>Chasing: </h5>
+        <input type='checkbox' name='Chasing' value='True'> True<br>
+        <input type='checkbox' name='Chasing' value='False'checked> False<br>
+        </li>
+        <li><h5>Climbing: </h5>
+        <input type='checkbox' name='Climbing' value='True'> True<br>
+        <input type='checkbox' name='Climbing' value='False'checked> False<br>
+        </li>
+        <li><h5>Eating: </h5>
+        <input type='checkbox' name='Eating' value='True'> True<br>
+        <input type='checkbox' name='Eating' value='False'checked> False<br>
+        </li>
+        <li><h5>Foraging: </h5>
+        <input type='checkbox' name='Foraging' value='True'> True<br>
+        <input type='checkbox' name='Foraging' value='False'checked> False<br>
+        </li>
+ 	<li><h5>Other_Activities: </h5>
+        <input type='text' name='Other_Activities'>
+        </li>
+        <li><h5>Kuks: </h5>
+        <input type='checkbox' name='Kuks' value='True'> True<br>
+        <input type='checkbox' name='Kuks' value='False'checked> False<br>
+        </li>
+        <li><h5>Quaas: </h5>
+        <input type='checkbox' name='Quaas' value='True'> True<br>
+        <input type='checkbox' name='Quaas' value='False'checked> False<br>
+        </li>
+        <li><h5>Moans: </h5>
+        <input type='checkbox' name='Moans' value='True'> True<br>
+        <input type='checkbox' name='Moans' value='False'checked> False<br>
+        </li>
+        <li><h5>Tail_flags: </h5>
+        <input type='checkbox' name='Tail_flags' value='True'> True<br>
+        <input type='checkbox' name='Tail_flags' value='False'checked> False<br>
+        </li>
+        <li><h5>Tail_twitches: </h5>
+        <input type='checkbox' name='Tail_twitches' value='True'> True<br>
+        <input type='checkbox' name='Tail_twitches' value='False'checked> False<br>
+        </li>
+        <li><h5>Approaches: </h5>
+        <input type='checkbox' name='Approaches' value='True'> True<br>
+        <input type='checkbox' name='Approaches' value='False'checked> False<br>
+        </li>
+        <li><h5>Indifferent: </h5>
+        <input type='checkbox' name='Indifferent' value='True'> True<br>
+        <input type='checkbox' name='Indifferent' value='False'checked> False<br>
+        </li>
+        <li><h5>Runs_from: </h5>
+	<input type='checkbox' name='Runs_from' value='True'> True<br>
+        <input type='checkbox' name='Runs_from' value='False'checked> False<br>
+        </li>
+        </ul>
+        <br>
+        <br>
+        <input type="submit" name="update" value="Update">
+	<input type="submit" name="delete" value="Delete">
+	</body>
 </html>
