@@ -5,15 +5,18 @@ from django.http import HttpResponseRedirect
 from django.urls import reverse
 from django.views import generic
 from .models import squ_model
+<<<<<<< HEAD
 from django.forms import ModelForm
 
 class SightingForm(ModelForm):
     class Meta:
         model = squ_model
         fields = '__all__'
+=======
+>>>>>>> b7b37774823c9a767613a3f113c220ce48543b8f
 
 def index(request):
-    squirrels = squirrel_model.objects.all()
+    squirrels = squ_model.objects.all()
     context = {'squirrels': squirrels,
             }
     return render(request, 'vwsquirrel/index.html', context)

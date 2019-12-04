@@ -1,7 +1,7 @@
 from django.db import models
 
 # Create your models here.
-class squirrel_model(models.Model):
+class squ_model(models.Model):
     Latitude=models.IntegerField()
     Longitude=models.IntegerField()
     Unique_Squirrel_ID=models.TextField()
