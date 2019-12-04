@@ -27,9 +27,13 @@ def add(request):
         return redirect('/sightings/')
     return render(request,'vwsquirrel/add.html')
 
+def map(request):
+    squirrels=squ_model.objects.all()[:100]
+    return render(request, 'vwsquirrel/map.html', {'squirrels':squirrels})
+
 def detail(request,Unique_Squirrel_ID):
+    details = squ_model.objects.get(Unique_Squirrel_ID=Unique_Squirrel_ID)
    # details = get_object_or_404(squ_model,Unique_Squirrel_ID=Unique_Squirrel_ID)
-    details=squ_model.objects.get(Unique_Squirrel_ID=Unique_Squirrel_ID)
     if request.method == "POST":
         if 'delete' in request.POST:
             details.delete()
@@ -38,7 +42,7 @@ def detail(request,Unique_Squirrel_ID):
             if details.is_valid():
                  details.save()
         return redirect('/sightings/')
-    return render(request, 'vwsquirrel/detail.html')
+    return render(request, 'vwsquirrel/detail.html',{'details':details})
 
 def stats(request):
     Adult=squ_model.objects.filter(Age='Adult').count()
