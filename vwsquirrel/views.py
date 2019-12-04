@@ -36,4 +36,4 @@ def detail(request,Unique_Squirrel_ID):
             if details.is_valid():
                  details.save()
         return redirect('/sightings/')
-    return render(request, 'vwsquirrel/detail.html')
+    return render(request, 'vwsquirrel/detail.html',{'details':details})
