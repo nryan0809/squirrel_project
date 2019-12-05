@@ -1,0 +1,3 @@
+vwsquirrel/__pycache__/
+vwsquirrel/migrations/__pycache__/
+vwsquirrel/management/commands/__pycache__/
