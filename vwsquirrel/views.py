@@ -4,12 +4,12 @@ from django.apps import apps
 from django.http import HttpResponseRedirect
 from django.urls import reverse
 from django.views import generic
-from .models import squ_model
+from .models import sq_model
 from django.forms import ModelForm
 from django.db.models import Count, Q
 
 def index(request):
-    squirrels = squ_model.objects.all()
+    squirrels = sq_model.objects.all()
     context = {'squirrels': squirrels,
             }
     return render(request, 'vwsquirrel/index.html', context)
@@ -17,7 +17,7 @@ def index(request):
 
 class SquForm(ModelForm):
     class Meta:
-        model = squ_model
+        model = sq_model
         fields = '__all__'
 
 def add(request):
@@ -28,11 +28,11 @@ def add(request):
     return render(request,'vwsquirrel/add.html')
 
 def map(request):
-    squirrels=squ_model.objects.all()[:100]
+    squirrels=sq_model.objects.all()[:100]
     return render(request, 'vwsquirrel/map.html', {'squirrels':squirrels})
 
 def detail(request,Unique_Squirrel_ID):
-    details = squ_model.objects.get(Unique_Squirrel_ID=Unique_Squirrel_ID)
+    details = sq_model.objects.get(Unique_Squirrel_ID=Unique_Squirrel_ID)
    # details = get_object_or_404(squ_model,Unique_Squirrel_ID=Unique_Squirrel_ID)
     if request.method == "POST":
         if 'delete' in request.POST:
@@ -45,13 +45,13 @@ def detail(request,Unique_Squirrel_ID):
     return render(request, 'vwsquirrel/detail.html',{'details':details})
 
 def stats(request):
-    Adult=squ_model.objects.filter(Age='Adult').count()
-    Juvenile=squ_model.objects.filter(Age='Juvenile').count()
-    AM=squ_model.objects.filter(Shift='AM').count()
-    PM=squ_model.objects.filter(Shift='PM').count()
-    Running=squ_model.objects.filter(Running=True).count()
-    Chasing=squ_model.objects.filter(Chasing=True).count()
-    Climbing=squ_model.objects.filter(Climbing=True).count()
+    Adult=sq_model.objects.filter(Age='Adult').count()
+    Juvenile=sq_model.objects.filter(Age='Juvenile').count()
+    AM=sq_model.objects.filter(Shift='AM').count()
+    PM=sq_model.objects.filter(Shift='PM').count()
+    Running=sq_model.objects.filter(Running=True).count()
+    Chasing=sq_model.objects.filter(Chasing=True).count()
+    Climbing=sq_model.objects.filter(Climbing=True).count()
     context={
             'Adult':Adult,
             'Juvenile':Juvenile,
