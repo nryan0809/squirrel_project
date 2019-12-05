@@ -1,9 +1,9 @@
 from django.db import models
 
 # Create your models here.
-class squ_model(models.Model):
-    Latitude=models.IntegerField()
-    Longitude=models.IntegerField()
+class sq_model(models.Model):
+    Latitude=models.FloatField()
+    Longitude=models.FloatField()
     Unique_Squirrel_ID=models.TextField()
     Shift=models.TextField()
     Date=models.TextField()
