@@ -50,7 +50,7 @@
         <!-- L.Icon.Default.prototype.options.shadowSize = 15; -->
         <!-- L.Icon.Default.prototype.options.shadowAnchor = [0, 0]; -->
         {% for squirrel in squirrels %}
-          var point_lat_lon = [{{ squirrel.Latitude }}, {{ squirrel.Longitude }}];
+          var point_lat_lon = [{{ squirrel.Longitude }}, {{ squirrel.Latitude }}];
           var marker = L.marker(point_lat_lon).addTo(map);
         {% endfor %}
     </script>
