@@ -7,7 +7,7 @@ from django.views import generic
 from .models import sq_model
 from django.forms import ModelForm
 from django.db.models import Count, Q
-
+from .forms import SquForm
 def index(request):
     squirrels = sq_model.objects.all()
     context = {'squirrels': squirrels,
@@ -15,10 +15,6 @@ def index(request):
     return render(request, 'vwsquirrel/index.html', context)
 
 
-class SquForm(ModelForm):
-    class Meta:
-        model = sq_model
-        fields = '__all__'
 
 def add(request):
     if request.method == 'POST':
@@ -38,9 +34,17 @@ def detail(request,Unique_Squirrel_ID):
         if 'delete' in request.POST:
             details.delete()
         else:
-            details = SquForm(instance=details,data=request.POST)
+            x=list(request.POST.values())[1:]
+            sqs = sq_model.objects.filter(Unique_Squirrel_ID=Unique_Squirrel_ID)
+            details = SquForm(request.POST,instance=sqs[0])
             if details.is_valid():
-                 details.save()
+                model=apps.get_model('vwsquirrel','sq_model')
+                field_names = [f.name for f in model._meta.fields][1:]
+                for sq in sqs:
+                    for idx,f in enumerate(field_names):
+                        if x[idx]:
+                            setattr(sq,f,x[idx])
+                    sq.save()
         return redirect('/sightings/')
     return render(request, 'vwsquirrel/detail.html',{'details':details})
 
